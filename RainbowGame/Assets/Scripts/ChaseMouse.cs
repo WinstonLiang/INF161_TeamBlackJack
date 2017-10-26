@@ -37,7 +37,7 @@ public class ChaseMouse : MonoBehaviour {
     void FixedUpdate()
     {
         if (jump && isGrounded())
-            rigidBody.AddForce(new Vector3(0.0f, 5.0f, 0.0f), ForceMode.Impulse);
+            rigidBody.AddForce(new Vector3(0.0f, jumpForce, 0.0f), ForceMode.Impulse);
         rigidBody.MovePosition(transform.position + movement);
     }
 
