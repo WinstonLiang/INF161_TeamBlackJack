@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour {
+public class ChaseMouse : MonoBehaviour {
 
     private Vector3 movement = Vector3.zero;
     private Rigidbody rigidBody;
