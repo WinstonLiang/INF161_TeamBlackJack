@@ -9,6 +9,8 @@ public class Movement : MonoBehaviour {
     bool hasJumped = false;
     bool landed = true;
 
+    public int coins = 0;
+
 	// Use this for initialization
 	void Start () {
         startPosition = this.transform.position;
@@ -65,6 +67,11 @@ public class Movement : MonoBehaviour {
 
     void OnCollisionEnter(Collision collision)
     {
+        if (collision.gameObject.tag == "Coin")
+        {
+            coins++;
+            return;
+        }
         if (collision.transform.position.y < this.transform.position.y)
             landed = true;
     }
