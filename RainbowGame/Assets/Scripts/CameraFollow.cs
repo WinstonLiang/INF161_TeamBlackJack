@@ -5,6 +5,7 @@ using UnityEngine;
 public class CameraFollow : MonoBehaviour {
 
     public GameObject Player;
+    public int coins;
 
 	// Use this for initialization
 	void Start () {

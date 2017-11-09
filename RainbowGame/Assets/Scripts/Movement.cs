@@ -6,10 +6,10 @@ public class Movement : MonoBehaviour {
 
     Vector3 startPosition;
     float thrust = 0.5f;
-    bool hasJumped = false;
-    bool landed = true;
+    public bool hasJumped = false;
+    public bool landed = true;
 
-    public int coins = 0;
+    //public int coins = 0;
 
 	// Use this for initialization
 	void Start () {
@@ -67,11 +67,11 @@ public class Movement : MonoBehaviour {
 
     void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.tag == "Coin")
-        {
-            coins++;
-            return;
-        }
+        //if (collision.gameObject.tag == "Coin")
+        //{
+        //    coins++;
+        //    return;
+        //}
         if (collision.transform.position.y < this.transform.position.y)
             landed = true;
     }
