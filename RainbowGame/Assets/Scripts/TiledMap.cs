@@ -2,6 +2,8 @@
 
 public class TiledMap : MonoBehaviour
 {
+    public PhysicMaterial platforms;
+
     void Awake()
     {
         addBoxCollidersToTiles();
@@ -16,7 +18,9 @@ public class TiledMap : MonoBehaviour
                 if (tiles.name == "Tiles")
                 {
                     var collider = tiles.gameObject.AddComponent<BoxCollider>();
-                    collider.size = new Vector3(collider.size.x, collider.size.y, 20.0f);
+                    collider.material = platforms;
+                    collider.center = new Vector3(collider.center.x, collider.center.y, collider.center.z - 0.5f);
+                    collider.size = new Vector3(collider.size.x, collider.size.y, 1f);
                 }
             }
         }

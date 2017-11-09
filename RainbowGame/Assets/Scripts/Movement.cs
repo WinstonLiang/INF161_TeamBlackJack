@@ -72,7 +72,7 @@ public class Movement : MonoBehaviour {
         //    coins++;
         //    return;
         //}
-        if (collision.transform.position.y < this.transform.position.y)
+        if (collision.transform.position.z < this.transform.position.y)
             landed = true;
     }
 }
