@@ -8,6 +8,8 @@ public class CoinBehavior : MonoBehaviour {
     private CapsuleCollider col;
     private bool ascending;
 
+    public GameObject player_camera;
+
     private void Start()
     {
         ascending = true;
@@ -46,6 +48,8 @@ public class CoinBehavior : MonoBehaviour {
         if(other.tag == "Player")
         {
             //Do something in the world...whatever we decide to do.
+
+            player_camera.GetComponent<CameraFollow>().coins += 1;
             Destroy(this.gameObject);
         }
     }
