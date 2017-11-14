@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Tiled2Unity generated xml data-->
+<!--Do not modify by hand-->
+<!--Last exported: 11/14/2017 12:34:40 PM-->
+<Tiled2Unity version="1.0.13.0">
+  <AssignMaterial mesh="Map3a_mesh_0003" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0004" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0005" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0006" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0007" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0008" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0009" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0010" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0011" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0012" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0013" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0014" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0015" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0016" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0017" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0018" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0019" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0020" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0021" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0022" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0023" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0024" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0025" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0026" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0027" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0028" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0029" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0030" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0031" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0032" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0033" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0034" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0035" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0036" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0037" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0038" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0039" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0040" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0041" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0042" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0043" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0044" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0045" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0046" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0047" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0048" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0049" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0050" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0051" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0052" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0053" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0054" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_tile_0017" material="Coin" />
+  <Prefab name="Map3a" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="52" numTilesWide="20" numTilesHigh="20" tileWidth="48" tileHeight="48" exportScale="1" mapWidthInPixels="960" mapHeightInPixels="960" backgroundColor="#808080">
+    <GameObject name="Red0" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0003" sortingLayerName="" sortingOrder="0" opacity="1" />
+    </GameObject>
+    <GameObject name="Red1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0004" sortingLayerName="" sortingOrder="1" opacity="1" />
+    </GameObject>
+    <GameObject name="Red6" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0005" sortingLayerName="" sortingOrder="2" opacity="1" />
+    </GameObject>
+    <GameObject name="Red7" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0006" sortingLayerName="" sortingOrder="3" opacity="1" />
+    </GameObject>
+    <GameObject name="Red8" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0007" sortingLayerName="" sortingOrder="4" opacity="1" />
+    </GameObject>
+    <GameObject name="Red9" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0008" sortingLayerName="" sortingOrder="5" opacity="1" />
+    </GameObject>
+    <GameObject name="Red2" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0009" sortingLayerName="" sortingOrder="6" opacity="1" />
+    </GameObject>
+    <GameObject name="Red10" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0010" sortingLayerName="" sortingOrder="7" opacity="1" />
+    </GameObject>
+    <GameObject name="Red11" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0011" sortingLayerName="" sortingOrder="8" opacity="1" />
+    </GameObject>
+    <GameObject name="Red3" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0012" sortingLayerName="" sortingOrder="9" opacity="1" />
+    </GameObject>
+    <GameObject name="Red4" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0013" sortingLayerName="" sortingOrder="10" opacity="1" />
+    </GameObject>
+    <GameObject name="Red12" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0014" sortingLayerName="" sortingOrder="11" opacity="1" />
+    </GameObject>
+    <GameObject name="Red13" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0015" sortingLayerName="" sortingOrder="12" opacity="1" />
+    </GameObject>
+    <GameObject name="Red5" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0016" sortingLayerName="" sortingOrder="13" opacity="1" />
+    </GameObject>
+    <GameObject name="Orange0" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0017" sortingLayerName="" sortingOrder="14" opacity="1" />
+    </GameObject>
+    <GameObject name="Orange3" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0018" sortingLayerName="" sortingOrder="15" opacity="1" />
+    </GameObject>
+    <GameObject name="Orange1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0019" sortingLayerName="" sortingOrder="16" opacity="1" />
+    </GameObject>
+    <GameObject name="Orange4" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0020" sortingLayerName="" sortingOrder="17" opacity="1" />
+    </GameObject>
+    <GameObject name="Orange2" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0021" sortingLayerName="" sortingOrder="18" opacity="1" />
+    </GameObject>
+    <GameObject name="Yellow0" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0022" sortingLayerName="" sortingOrder="19" opacity="1" />
+    </GameObject>
+    <GameObject name="Yellow1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0023" sortingLayerName="" sortingOrder="20" opacity="1" />
+    </GameObject>
+    <GameObject name="Yellow2" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0024" sortingLayerName="" sortingOrder="21" opacity="1" />
+    </GameObject>
+    <GameObject name="Yellow5" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0025" sortingLayerName="" sortingOrder="22" opacity="1" />
+    </GameObject>
+    <GameObject name="Yellow3" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0026" sortingLayerName="" sortingOrder="23" opacity="1" />
+    </GameObject>
+    <GameObject name="Yellow6" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0027" sortingLayerName="" sortingOrder="24" opacity="1" />
+    </GameObject>
+    <GameObject name="Yellow7" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0028" sortingLayerName="" sortingOrder="25" opacity="1" />
+    </GameObject>
+    <GameObject name="Yellow8" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0029" sortingLayerName="" sortingOrder="26" opacity="1" />
+    </GameObject>
+    <GameObject name="Yellow4" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0030" sortingLayerName="" sortingOrder="27" opacity="1" />
+    </GameObject>
+    <GameObject name="Green0" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0031" sortingLayerName="" sortingOrder="28" opacity="1" />
+    </GameObject>
+    <GameObject name="Green2" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0032" sortingLayerName="" sortingOrder="29" opacity="1" />
+    </GameObject>
+    <GameObject name="Green3" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0033" sortingLayerName="" sortingOrder="30" opacity="1" />
+    </GameObject>
+    <GameObject name="Green1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0034" sortingLayerName="" sortingOrder="31" opacity="1" />
+    </GameObject>
+    <GameObject name="Green4" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0035" sortingLayerName="" sortingOrder="32" opacity="1" />
+    </GameObject>
+    <GameObject name="Green5" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0036" sortingLayerName="" sortingOrder="33" opacity="1" />
+    </GameObject>
+    <GameObject name="Green6" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0037" sortingLayerName="" sortingOrder="34" opacity="1" />
+    </GameObject>
+    <GameObject name="Blue0" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0038" sortingLayerName="" sortingOrder="35" opacity="1" />
+    </GameObject>
+    <GameObject name="Blue1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0039" sortingLayerName="" sortingOrder="36" opacity="1" />
+    </GameObject>
+    <GameObject name="Blue4" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0040" sortingLayerName="" sortingOrder="37" opacity="1" />
+    </GameObject>
+    <GameObject name="Blue5" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0041" sortingLayerName="" sortingOrder="38" opacity="1" />
+    </GameObject>
+    <GameObject name="Blue2" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0042" sortingLayerName="" sortingOrder="39" opacity="1" />
+    </GameObject>
+    <GameObject name="Blue6" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0043" sortingLayerName="" sortingOrder="40" opacity="1" />
+    </GameObject>
+    <GameObject name="Blue3" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0044" sortingLayerName="" sortingOrder="41" opacity="1" />
+    </GameObject>
+    <GameObject name="Blue7" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0045" sortingLayerName="" sortingOrder="42" opacity="1" />
+    </GameObject>
+    <GameObject name="Blue8" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0046" sortingLayerName="" sortingOrder="43" opacity="1" />
+    </GameObject>
+    <GameObject name="Blue9" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0047" sortingLayerName="" sortingOrder="44" opacity="1" />
+    </GameObject>
+    <GameObject name="Indigo0" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0048" sortingLayerName="" sortingOrder="45" opacity="1" />
+    </GameObject>
+    <GameObject name="Indigo1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0049" sortingLayerName="" sortingOrder="46" opacity="1" />
+    </GameObject>
+    <GameObject name="Indigo2" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0050" sortingLayerName="" sortingOrder="47" opacity="1" />
+    </GameObject>
+    <GameObject name="Indigo4" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0051" sortingLayerName="" sortingOrder="48" opacity="1" />
+    </GameObject>
+    <GameObject name="Indigo3" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0052" sortingLayerName="" sortingOrder="49" opacity="1" />
+    </GameObject>
+    <GameObject name="Violet0" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0053" sortingLayerName="" sortingOrder="50" opacity="1" />
+    </GameObject>
+    <GameObject name="Violet1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0054" sortingLayerName="" sortingOrder="51" opacity="1" />
+    </GameObject>
+    <GameObject name="Coins" x="0" y="0" z="0">
+      <ObjectLayer offsetX="0" offsetY="0" color="#ff808080" />
+      <GameObject name="TileObject" x="912" y="-48" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="16" tmx-object-name="" tmx-object-type="" tmx-object-x="912" tmx-object-y="48" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="52" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="624" y="-48" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="17" tmx-object-name="" tmx-object-type="" tmx-object-x="624" tmx-object-y="48" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="53" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="864" y="-48" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="20" tmx-object-name="" tmx-object-type="" tmx-object-x="864" tmx-object-y="48" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="54" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="0" y="-48" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="22" tmx-object-name="" tmx-object-type="" tmx-object-x="0" tmx-object-y="48" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="55" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="480" y="-48" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="28" tmx-object-name="" tmx-object-type="" tmx-object-x="480" tmx-object-y="48" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="56" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="96" y="-144" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="23" tmx-object-name="" tmx-object-type="" tmx-object-x="96" tmx-object-y="144" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="57" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="336" y="-240" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="27" tmx-object-name="" tmx-object-type="" tmx-object-x="336" tmx-object-y="240" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="58" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="624" y="-336" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="18" tmx-object-name="" tmx-object-type="" tmx-object-x="624" tmx-object-y="336" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="59" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="912" y="-432" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="19" tmx-object-name="" tmx-object-type="" tmx-object-x="912" tmx-object-y="432" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="60" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="336" y="-432" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="24" tmx-object-name="" tmx-object-type="" tmx-object-x="336" tmx-object-y="432" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="61" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="288" y="-480" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="25" tmx-object-name="" tmx-object-type="" tmx-object-x="288" tmx-object-y="480" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="62" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="48" y="-528" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="29" tmx-object-name="" tmx-object-type="" tmx-object-x="48" tmx-object-y="528" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="63" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="336" y="-576" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="7" tmx-object-name="" tmx-object-type="" tmx-object-x="336" tmx-object-y="576" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="64" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="336" y="-624" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="13" tmx-object-name="" tmx-object-type="" tmx-object-x="336" tmx-object-y="624" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="65" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="672" y="-672" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="10" tmx-object-name="" tmx-object-type="" tmx-object-x="672" tmx-object-y="672" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="66" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="576" y="-672" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="14" tmx-object-name="" tmx-object-type="" tmx-object-x="576" tmx-object-y="672" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="67" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="816" y="-720" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="15" tmx-object-name="" tmx-object-type="" tmx-object-x="816" tmx-object-y="720" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="68" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="192" y="-816" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="5" tmx-object-name="" tmx-object-type="" tmx-object-x="192" tmx-object-y="816" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="69" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="192" y="-864" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="9" tmx-object-name="" tmx-object-type="" tmx-object-x="192" tmx-object-y="864" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="70" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="624" y="-864" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="11" tmx-object-name="" tmx-object-type="" tmx-object-x="624" tmx-object-y="864" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="71" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+      <GameObject name="TileObject" x="912" y="-960" rotation="0" scaleX="1" scaleY="1">
+        <TileObjectComponent tmx-object-id="12" tmx-object-name="" tmx-object-type="" tmx-object-x="912" tmx-object-y="960" tmx-object-width="48" tmx-object-height="48" tmx-object-rotation="0" tmx-tile-flip-horizontal="false" tmx-tile-flip-vertical="false" width="48" height="48" />
+        <GameObject name="TileObject" x="24" y="24" scaleX="1" scaleY="1">
+          <GameObject name="tile_obj" mesh="Map3a_mesh_tile_0017" sortingLayerName="" sortingOrder="72" opacity="0.5" x="-24" y="24" />
+        </GameObject>
+      </GameObject>
+    </GameObject>
+  </Prefab>
+  <ImportMesh filename="Map3a_mesh_0003.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAwMy5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gNjQpDQp2IC0xNDQgLTk2MCAwDQp2IC0xOTIgLTk2MCAwDQp2IC0xOTIgLTkxMiAwDQp2IC0xNDQgLTkxMiAwDQp2IC05NiAtOTYwIDANCnYgLTE0NCAtOTYwIDANCnYgLTE0NCAtOTEyIDANCnYgLTk2IC05MTIgMA0KdiAtNDggLTk2MCAwDQp2IC05NiAtOTYwIDANCnYgLTk2IC05MTIgMA0KdiAtNDggLTkxMiAwDQp2IDAgLTk2MCAwDQp2IC00OCAtOTYwIDANCnYgLTQ4IC05MTIgMA0KdiAwIC05MTIgMA0KdiAtMTQ0IC05MTIgMA0KdiAtMTkyIC05MTIgMA0KdiAtMTkyIC04NjQgMA0KdiAtMTQ0IC04NjQgMA0KdiAtOTYgLTkxMiAwDQp2IC0xNDQgLTkxMiAwDQp2IC0xNDQgLTg2NCAwDQp2IC05NiAtODY0IDANCnYgLTQ4IC05MTIgMA0KdiAtOTYgLTkxMiAwDQp2IC05NiAtODY0IDANCnYgLTQ4IC04NjQgMA0KdiAwIC05MTIgMA0KdiAtNDggLTkxMiAwDQp2IC00OCAtODY0IDANCnYgMCAtODY0IDANCnYgLTE0NCAtODY0IDANCnYgLTE5MiAtODY0IDANCnYgLTE5MiAtODE2IDANCnYgLTE0NCAtODE2IDANCnYgLTk2IC04NjQgMA0KdiAtMTQ0IC04NjQgMA0KdiAtMTQ0IC04MTYgMA0KdiAtOTYgLTgxNiAwDQp2IC00OCAtODY0IDANCnYgLTk2IC04NjQgMA0KdiAtOTYgLTgxNiAwDQp2IC00OCAtODE2IDANCnYgMCAtODY0IDANCnYgLTQ4IC04NjQgMA0KdiAtNDggLTgxNiAwDQp2IDAgLTgxNiAwDQp2IC0xNDQgLTgxNiAwDQp2IC0xOTIgLTgxNiAwDQp2IC0xOTIgLTc2OCAwDQp2IC0xNDQgLTc2OCAwDQp2IC05NiAtODE2IDANCnYgLTE0NCAtODE2IDANCnYgLTE0NCAtNzY4IDANCnYgLTk2IC03NjggMA0KdiAtNDggLTgxNiAwDQp2IC05NiAtODE2IDANCnYgLTk2IC03NjggMA0KdiAtNDggLTc2OCAwDQp2IDAgLTgxNiAwDQp2IC00OCAtODE2IDANCnYgLTQ4IC03NjggMA0KdiAwIC03NjggMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDAuNzUNCnZ0IDAuNSAwLjc1DQp2dCAwLjUgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDAwMw0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQpmIDE3LzEvMSAxOC8yLzEgMTkvMy8xIDIwLzQvMQpmIDIxLzEvMSAyMi8yLzEgMjMvMy8xIDI0LzQvMQpmIDI1LzEvMSAyNi8yLzEgMjcvMy8xIDI4LzQvMQpmIDI5LzEvMSAzMC8yLzEgMzEvMy8xIDMyLzQvMQpmIDMzLzEvMSAzNC8yLzEgMzUvMy8xIDM2LzQvMQpmIDM3LzEvMSAzOC8yLzEgMzkvMy8xIDQwLzQvMQpmIDQxLzEvMSA0Mi8yLzEgNDMvMy8xIDQ0LzQvMQpmIDQ1LzEvMSA0Ni8yLzEgNDcvMy8xIDQ4LzQvMQpmIDQ5LzEvMSA1MC8yLzEgNTEvMy8xIDUyLzQvMQpmIDUzLzEvMSA1NC8yLzEgNTUvMy8xIDU2LzQvMQpmIDU3LzEvMSA1OC8yLzEgNTkvMy8xIDYwLzQvMQpmIDYxLzEvMSA2Mi8yLzEgNjMvMy8xIDY0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0004.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAwNC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMzIpDQp2IC01NzYgLTk2MCAwDQp2IC02MjQgLTk2MCAwDQp2IC02MjQgLTkxMiAwDQp2IC01NzYgLTkxMiAwDQp2IC01MjggLTk2MCAwDQp2IC01NzYgLTk2MCAwDQp2IC01NzYgLTkxMiAwDQp2IC01MjggLTkxMiAwDQp2IC00ODAgLTk2MCAwDQp2IC01MjggLTk2MCAwDQp2IC01MjggLTkxMiAwDQp2IC00ODAgLTkxMiAwDQp2IC00MzIgLTk2MCAwDQp2IC00ODAgLTk2MCAwDQp2IC00ODAgLTkxMiAwDQp2IC00MzIgLTkxMiAwDQp2IC01NzYgLTkxMiAwDQp2IC02MjQgLTkxMiAwDQp2IC02MjQgLTg2NCAwDQp2IC01NzYgLTg2NCAwDQp2IC01MjggLTkxMiAwDQp2IC01NzYgLTkxMiAwDQp2IC01NzYgLTg2NCAwDQp2IC01MjggLTg2NCAwDQp2IC00ODAgLTkxMiAwDQp2IC01MjggLTkxMiAwDQp2IC01MjggLTg2NCAwDQp2IC00ODAgLTg2NCAwDQp2IC00MzIgLTkxMiAwDQp2IC00ODAgLTkxMiAwDQp2IC00ODAgLTg2NCAwDQp2IC00MzIgLTg2NCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC43NQ0KdnQgMC41IDAuNzUNCnZ0IDAuNSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDA0DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCmYgMTMvMS8xIDE0LzIvMSAxNS8zLzEgMTYvNC8xCmYgMTcvMS8xIDE4LzIvMSAxOS8zLzEgMjAvNC8xCmYgMjEvMS8xIDIyLzIvMSAyMy8zLzEgMjQvNC8xCmYgMjUvMS8xIDI2LzIvMSAyNy8zLzEgMjgvNC8xCmYgMjkvMS8xIDMwLzIvMSAzMS8zLzEgMzIvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0005.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAwNS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTIpDQp2IC00MzIgLTg2NCAwDQp2IC00ODAgLTg2NCAwDQp2IC00ODAgLTgxNiAwDQp2IC00MzIgLTgxNiAwDQp2IC00MzIgLTgxNiAwDQp2IC00ODAgLTgxNiAwDQp2IC00ODAgLTc2OCAwDQp2IC00MzIgLTc2OCAwDQp2IC00MzIgLTc2OCAwDQp2IC00ODAgLTc2OCAwDQp2IC00ODAgLTcyMCAwDQp2IC00MzIgLTcyMCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC43NQ0KdnQgMC41IDAuNzUNCnZ0IDAuNSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDA1DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0006.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAwNi5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTYpDQp2IC0zODQgLTc2OCAwDQp2IC00MzIgLTc2OCAwDQp2IC00MzIgLTcyMCAwDQp2IC0zODQgLTcyMCAwDQp2IC0zMzYgLTc2OCAwDQp2IC0zODQgLTc2OCAwDQp2IC0zODQgLTcyMCAwDQp2IC0zMzYgLTcyMCAwDQp2IC0yODggLTc2OCAwDQp2IC0zMzYgLTc2OCAwDQp2IC0zMzYgLTcyMCAwDQp2IC0yODggLTcyMCAwDQp2IC0yNDAgLTc2OCAwDQp2IC0yODggLTc2OCAwDQp2IC0yODggLTcyMCAwDQp2IC0yNDAgLTcyMCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC43NQ0KdnQgMC41IDAuNzUNCnZ0IDAuNSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDA2DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCmYgMTMvMS8xIDE0LzIvMSAxNS8zLzEgMTYvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0007.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAwNy5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTI0MCAtNzIwIDANCnYgLTI4OCAtNzIwIDANCnYgLTI4OCAtNjcyIDANCnYgLTI0MCAtNjcyIDANCnYgLTI0MCAtNjcyIDANCnYgLTI4OCAtNjcyIDANCnYgLTI4OCAtNjI0IDANCnYgLTI0MCAtNjI0IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwLjc1DQp2dCAwLjUgMC43NQ0KdnQgMC41IDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBNYXAzYV9tZXNoXzAwMDcNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQpmIDUvMS8xIDYvMi8xIDcvMy8xIDgvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0008.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAwOC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMjQpDQp2IC0zMzYgLTYyNCAwDQp2IC0zODQgLTYyNCAwDQp2IC0zODQgLTU3NiAwDQp2IC0zMzYgLTU3NiAwDQp2IC0yODggLTYyNCAwDQp2IC0zMzYgLTYyNCAwDQp2IC0zMzYgLTU3NiAwDQp2IC0yODggLTU3NiAwDQp2IC0yNDAgLTYyNCAwDQp2IC0yODggLTYyNCAwDQp2IC0yODggLTU3NiAwDQp2IC0yNDAgLTU3NiAwDQp2IC0zMzYgLTU3NiAwDQp2IC0zODQgLTU3NiAwDQp2IC0zODQgLTUyOCAwDQp2IC0zMzYgLTUyOCAwDQp2IC0yODggLTU3NiAwDQp2IC0zMzYgLTU3NiAwDQp2IC0zMzYgLTUyOCAwDQp2IC0yODggLTUyOCAwDQp2IC0yNDAgLTU3NiAwDQp2IC0yODggLTU3NiAwDQp2IC0yODggLTUyOCAwDQp2IC0yNDAgLTUyOCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC43NQ0KdnQgMC41IDAuNzUNCnZ0IDAuNSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDA4DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCmYgMTMvMS8xIDE0LzIvMSAxNS8zLzEgMTYvNC8xCmYgMTcvMS8xIDE4LzIvMSAxOS8zLzEgMjAvNC8xCmYgMjEvMS8xIDIyLzIvMSAyMy8zLzEgMjQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0009.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAwOS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMjQpDQp2IC05MTIgLTg2NCAwDQp2IC05NjAgLTg2NCAwDQp2IC05NjAgLTgxNiAwDQp2IC05MTIgLTgxNiAwDQp2IC05MTIgLTgxNiAwDQp2IC05NjAgLTgxNiAwDQp2IC05NjAgLTc2OCAwDQp2IC05MTIgLTc2OCAwDQp2IC05MTIgLTc2OCAwDQp2IC05NjAgLTc2OCAwDQp2IC05NjAgLTcyMCAwDQp2IC05MTIgLTcyMCAwDQp2IC05MTIgLTcyMCAwDQp2IC05NjAgLTcyMCAwDQp2IC05NjAgLTY3MiAwDQp2IC05MTIgLTY3MiAwDQp2IC05MTIgLTY3MiAwDQp2IC05NjAgLTY3MiAwDQp2IC05NjAgLTYyNCAwDQp2IC05MTIgLTYyNCAwDQp2IC05MTIgLTYyNCAwDQp2IC05NjAgLTYyNCAwDQp2IC05NjAgLTU3NiAwDQp2IC05MTIgLTU3NiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC43NQ0KdnQgMC41IDAuNzUNCnZ0IDAuNSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDA5DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCmYgMTMvMS8xIDE0LzIvMSAxNS8zLzEgMTYvNC8xCmYgMTcvMS8xIDE4LzIvMSAxOS8zLzEgMjAvNC8xCmYgMjEvMS8xIDIyLzIvMSAyMy8zLzEgMjQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0010.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAxMC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTYpDQp2IC04NjQgLTYyNCAwDQp2IC05MTIgLTYyNCAwDQp2IC05MTIgLTU3NiAwDQp2IC04NjQgLTU3NiAwDQp2IC04MTYgLTYyNCAwDQp2IC04NjQgLTYyNCAwDQp2IC04NjQgLTU3NiAwDQp2IC04MTYgLTU3NiAwDQp2IC03NjggLTYyNCAwDQp2IC04MTYgLTYyNCAwDQp2IC04MTYgLTU3NiAwDQp2IC03NjggLTU3NiAwDQp2IC03MjAgLTYyNCAwDQp2IC03NjggLTYyNCAwDQp2IC03NjggLTU3NiAwDQp2IC03MjAgLTU3NiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC43NQ0KdnQgMC41IDAuNzUNCnZ0IDAuNSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDEwDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCmYgMTMvMS8xIDE0LzIvMSAxNS8zLzEgMTYvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0011.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAxMS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTY3MiAtNjcyIDANCnYgLTcyMCAtNjcyIDANCnYgLTcyMCAtNjI0IDANCnYgLTY3MiAtNjI0IDANCnYgLTY3MiAtNjI0IDANCnYgLTcyMCAtNjI0IDANCnYgLTcyMCAtNTc2IDANCnYgLTY3MiAtNTc2IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwLjc1DQp2dCAwLjUgMC43NQ0KdnQgMC41IDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBNYXAzYV9tZXNoXzAwMTENCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQpmIDUvMS8xIDYvMi8xIDcvMy8xIDgvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0012.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAxMi5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTYpDQp2IC0zMzYgLTQ4MCAwDQp2IC0zODQgLTQ4MCAwDQp2IC0zODQgLTQzMiAwDQp2IC0zMzYgLTQzMiAwDQp2IC0yODggLTQ4MCAwDQp2IC0zMzYgLTQ4MCAwDQp2IC0zMzYgLTQzMiAwDQp2IC0yODggLTQzMiAwDQp2IC0zMzYgLTQzMiAwDQp2IC0zODQgLTQzMiAwDQp2IC0zODQgLTM4NCAwDQp2IC0zMzYgLTM4NCAwDQp2IC0yODggLTQzMiAwDQp2IC0zMzYgLTQzMiAwDQp2IC0zMzYgLTM4NCAwDQp2IC0yODggLTM4NCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC43NQ0KdnQgMC41IDAuNzUNCnZ0IDAuNSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDEyDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCmYgMTMvMS8xIDE0LzIvMSAxNS8zLzEgMTYvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0013.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAxMy5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTQzMiAtMjg4IDANCnYgLTQ4MCAtMjg4IDANCnYgLTQ4MCAtMjQwIDANCnYgLTQzMiAtMjQwIDANCnYgLTM4NCAtMjg4IDANCnYgLTQzMiAtMjg4IDANCnYgLTQzMiAtMjQwIDANCnYgLTM4NCAtMjQwIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwLjc1DQp2dCAwLjUgMC43NQ0KdnQgMC41IDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBNYXAzYV9tZXNoXzAwMTMNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQpmIDUvMS8xIDYvMi8xIDcvMy8xIDgvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0014.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAxNC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTQ4MCAtMjQwIDANCnYgLTUyOCAtMjQwIDANCnYgLTUyOCAtMTkyIDANCnYgLTQ4MCAtMTkyIDANCnYgLTQzMiAtMjQwIDANCnYgLTQ4MCAtMjQwIDANCnYgLTQ4MCAtMTkyIDANCnYgLTQzMiAtMTkyIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwLjc1DQp2dCAwLjUgMC43NQ0KdnQgMC41IDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBNYXAzYV9tZXNoXzAwMTQNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQpmIDUvMS8xIDYvMi8xIDcvMy8xIDgvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0015.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAxNS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTQ4MCAtMTkyIDANCnYgLTUyOCAtMTkyIDANCnYgLTUyOCAtMTQ0IDANCnYgLTQ4MCAtMTQ0IDANCnYgLTQ4MCAtMTQ0IDANCnYgLTUyOCAtMTQ0IDANCnYgLTUyOCAtOTYgMA0KdiAtNDgwIC05NiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC43NQ0KdnQgMC41IDAuNzUNCnZ0IDAuNSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDE1DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0016.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAxNi5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTYpDQp2IC00OCAtOTYgMA0KdiAtOTYgLTk2IDANCnYgLTk2IC00OCAwDQp2IC00OCAtNDggMA0KdiAwIC05NiAwDQp2IC00OCAtOTYgMA0KdiAtNDggLTQ4IDANCnYgMCAtNDggMA0KdiAtNDggLTQ4IDANCnYgLTk2IC00OCAwDQp2IC05NiAwIDANCnYgLTQ4IDAgMA0KdiAwIC00OCAwDQp2IC00OCAtNDggMA0KdiAtNDggMCAwDQp2IDAgMCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC43NQ0KdnQgMC41IDAuNzUNCnZ0IDAuNSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDE2DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCmYgMTMvMS8xIDE0LzIvMSAxNS8zLzEgMTYvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0017.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAxNy5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gNDgpDQp2IC0zODQgLTk2MCAwDQp2IC00MzIgLTk2MCAwDQp2IC00MzIgLTkxMiAwDQp2IC0zODQgLTkxMiAwDQp2IC0zMzYgLTk2MCAwDQp2IC0zODQgLTk2MCAwDQp2IC0zODQgLTkxMiAwDQp2IC0zMzYgLTkxMiAwDQp2IC0yODggLTk2MCAwDQp2IC0zMzYgLTk2MCAwDQp2IC0zMzYgLTkxMiAwDQp2IC0yODggLTkxMiAwDQp2IC0zODQgLTkxMiAwDQp2IC00MzIgLTkxMiAwDQp2IC00MzIgLTg2NCAwDQp2IC0zODQgLTg2NCAwDQp2IC0zMzYgLTkxMiAwDQp2IC0zODQgLTkxMiAwDQp2IC0zODQgLTg2NCAwDQp2IC0zMzYgLTg2NCAwDQp2IC0yODggLTkxMiAwDQp2IC0zMzYgLTkxMiAwDQp2IC0zMzYgLTg2NCAwDQp2IC0yODggLTg2NCAwDQp2IC0zODQgLTg2NCAwDQp2IC00MzIgLTg2NCAwDQp2IC00MzIgLTgxNiAwDQp2IC0zODQgLTgxNiAwDQp2IC0zMzYgLTg2NCAwDQp2IC0zODQgLTg2NCAwDQp2IC0zODQgLTgxNiAwDQp2IC0zMzYgLTgxNiAwDQp2IC0yODggLTg2NCAwDQp2IC0zMzYgLTg2NCAwDQp2IC0zMzYgLTgxNiAwDQp2IC0yODggLTgxNiAwDQp2IC0zODQgLTgxNiAwDQp2IC00MzIgLTgxNiAwDQp2IC00MzIgLTc2OCAwDQp2IC0zODQgLTc2OCAwDQp2IC0zMzYgLTgxNiAwDQp2IC0zODQgLTgxNiAwDQp2IC0zODQgLTc2OCAwDQp2IC0zMzYgLTc2OCAwDQp2IC0yODggLTgxNiAwDQp2IC0zMzYgLTgxNiAwDQp2IC0zMzYgLTc2OCAwDQp2IC0yODggLTc2OCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAuNSAwLjc1DQp2dCAxIDAuNzUNCnZ0IDEgMQ0KdnQgMC41IDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDE3DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCmYgMTMvMS8xIDE0LzIvMSAxNS8zLzEgMTYvNC8xCmYgMTcvMS8xIDE4LzIvMSAxOS8zLzEgMjAvNC8xCmYgMjEvMS8xIDIyLzIvMSAyMy8zLzEgMjQvNC8xCmYgMjUvMS8xIDI2LzIvMSAyNy8zLzEgMjgvNC8xCmYgMjkvMS8xIDMwLzIvMSAzMS8zLzEgMzIvNC8xCmYgMzMvMS8xIDM0LzIvMSAzNS8zLzEgMzYvNC8xCmYgMzcvMS8xIDM4LzIvMSAzOS8zLzEgNDAvNC8xCmYgNDEvMS8xIDQyLzIvMSA0My8zLzEgNDQvNC8xCmYgNDUvMS8xIDQ2LzIvMSA0Ny8zLzEgNDgvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0018.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAxOC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTYpDQp2IC0yNDAgLTk2MCAwDQp2IC0yODggLTk2MCAwDQp2IC0yODggLTkxMiAwDQp2IC0yNDAgLTkxMiAwDQp2IC0xOTIgLTk2MCAwDQp2IC0yNDAgLTk2MCAwDQp2IC0yNDAgLTkxMiAwDQp2IC0xOTIgLTkxMiAwDQp2IC0yNDAgLTkxMiAwDQp2IC0yODggLTkxMiAwDQp2IC0yODggLTg2NCAwDQp2IC0yNDAgLTg2NCAwDQp2IC0xOTIgLTkxMiAwDQp2IC0yNDAgLTkxMiAwDQp2IC0yNDAgLTg2NCAwDQp2IC0xOTIgLTg2NCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAuNSAwLjc1DQp2dCAxIDAuNzUNCnZ0IDEgMQ0KdnQgMC41IDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDE4DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCmYgMTMvMS8xIDE0LzIvMSAxNS8zLzEgMTYvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0019.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAxOS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMjQpDQp2IC02NzIgLTkxMiAwDQp2IC03MjAgLTkxMiAwDQp2IC03MjAgLTg2NCAwDQp2IC02NzIgLTg2NCAwDQp2IC02MjQgLTkxMiAwDQp2IC02NzIgLTkxMiAwDQp2IC02NzIgLTg2NCAwDQp2IC02MjQgLTg2NCAwDQp2IC02NzIgLTg2NCAwDQp2IC03MjAgLTg2NCAwDQp2IC03MjAgLTgxNiAwDQp2IC02NzIgLTgxNiAwDQp2IC02MjQgLTg2NCAwDQp2IC02NzIgLTg2NCAwDQp2IC02NzIgLTgxNiAwDQp2IC02MjQgLTgxNiAwDQp2IC02NzIgLTgxNiAwDQp2IC03MjAgLTgxNiAwDQp2IC03MjAgLTc2OCAwDQp2IC02NzIgLTc2OCAwDQp2IC02MjQgLTgxNiAwDQp2IC02NzIgLTgxNiAwDQp2IC02NzIgLTc2OCAwDQp2IC02MjQgLTc2OCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAuNSAwLjc1DQp2dCAxIDAuNzUNCnZ0IDEgMQ0KdnQgMC41IDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDE5DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCmYgMTMvMS8xIDE0LzIvMSAxNS8zLzEgMTYvNC8xCmYgMTcvMS8xIDE4LzIvMSAxOS8zLzEgMjAvNC8xCmYgMjEvMS8xIDIyLzIvMSAyMy8zLzEgMjQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0020.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAyMC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTU3NiAtODY0IDANCnYgLTYyNCAtODY0IDANCnYgLTYyNCAtODE2IDANCnYgLTU3NiAtODE2IDANCnYgLTU3NiAtODE2IDANCnYgLTYyNCAtODE2IDANCnYgLTYyNCAtNzY4IDANCnYgLTU3NiAtNzY4IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMC41IDAuNzUNCnZ0IDEgMC43NQ0KdnQgMSAxDQp2dCAwLjUgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBNYXAzYV9tZXNoXzAwMjANCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQpmIDUvMS8xIDYvMi8xIDcvMy8xIDgvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0021.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAyMS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gNCkNCnYgLTk2IC0xNDQgMA0KdiAtMTQ0IC0xNDQgMA0KdiAtMTQ0IC05NiAwDQp2IC05NiAtOTYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwLjUgMC43NQ0KdnQgMSAwLjc1DQp2dCAxIDENCnZ0IDAuNSAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDAyMQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0022.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAyMi5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTYpDQp2IC0yNDAgLTg2NCAwDQp2IC0yODggLTg2NCAwDQp2IC0yODggLTgxNiAwDQp2IC0yNDAgLTgxNiAwDQp2IC0xOTIgLTg2NCAwDQp2IC0yNDAgLTg2NCAwDQp2IC0yNDAgLTgxNiAwDQp2IC0xOTIgLTgxNiAwDQp2IC0yNDAgLTgxNiAwDQp2IC0yODggLTgxNiAwDQp2IC0yODggLTc2OCAwDQp2IC0yNDAgLTc2OCAwDQp2IC0xOTIgLTgxNiAwDQp2IC0yNDAgLTgxNiAwDQp2IC0yNDAgLTc2OCAwDQp2IC0xOTIgLTc2OCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC41DQp2dCAwLjUgMC41DQp2dCAwLjUgMC43NQ0KdnQgMCAwLjc1DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDAyMg0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0023.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAyMy5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gNDApDQp2IC05MTIgLTk2MCAwDQp2IC05NjAgLTk2MCAwDQp2IC05NjAgLTkxMiAwDQp2IC05MTIgLTkxMiAwDQp2IC04NjQgLTk2MCAwDQp2IC05MTIgLTk2MCAwDQp2IC05MTIgLTkxMiAwDQp2IC04NjQgLTkxMiAwDQp2IC04MTYgLTk2MCAwDQp2IC04NjQgLTk2MCAwDQp2IC04NjQgLTkxMiAwDQp2IC04MTYgLTkxMiAwDQp2IC03NjggLTk2MCAwDQp2IC04MTYgLTk2MCAwDQp2IC04MTYgLTkxMiAwDQp2IC03NjggLTkxMiAwDQp2IC03MjAgLTk2MCAwDQp2IC03NjggLTk2MCAwDQp2IC03NjggLTkxMiAwDQp2IC03MjAgLTkxMiAwDQp2IC05MTIgLTkxMiAwDQp2IC05NjAgLTkxMiAwDQp2IC05NjAgLTg2NCAwDQp2IC05MTIgLTg2NCAwDQp2IC04NjQgLTkxMiAwDQp2IC05MTIgLTkxMiAwDQp2IC05MTIgLTg2NCAwDQp2IC04NjQgLTg2NCAwDQp2IC04MTYgLTkxMiAwDQp2IC04NjQgLTkxMiAwDQp2IC04NjQgLTg2NCAwDQp2IC04MTYgLTg2NCAwDQp2IC03NjggLTkxMiAwDQp2IC04MTYgLTkxMiAwDQp2IC04MTYgLTg2NCAwDQp2IC03NjggLTg2NCAwDQp2IC03MjAgLTkxMiAwDQp2IC03NjggLTkxMiAwDQp2IC03NjggLTg2NCAwDQp2IC03MjAgLTg2NCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC41DQp2dCAwLjUgMC41DQp2dCAwLjUgMC43NQ0KdnQgMCAwLjc1DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDAyMw0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQpmIDE3LzEvMSAxOC8yLzEgMTkvMy8xIDIwLzQvMQpmIDIxLzEvMSAyMi8yLzEgMjMvMy8xIDI0LzQvMQpmIDI1LzEvMSAyNi8yLzEgMjcvMy8xIDI4LzQvMQpmIDI5LzEvMSAzMC8yLzEgMzEvMy8xIDMyLzQvMQpmIDMzLzEvMSAzNC8yLzEgMzUvMy8xIDM2LzQvMQpmIDM3LzEvMSAzOC8yLzEgMzkvMy8xIDQwLzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0024.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAyNC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMjQpDQp2IC02NzIgLTQ4MCAwDQp2IC03MjAgLTQ4MCAwDQp2IC03MjAgLTQzMiAwDQp2IC02NzIgLTQzMiAwDQp2IC02MjQgLTQ4MCAwDQp2IC02NzIgLTQ4MCAwDQp2IC02NzIgLTQzMiAwDQp2IC02MjQgLTQzMiAwDQp2IC01NzYgLTQ4MCAwDQp2IC02MjQgLTQ4MCAwDQp2IC02MjQgLTQzMiAwDQp2IC01NzYgLTQzMiAwDQp2IC02NzIgLTQzMiAwDQp2IC03MjAgLTQzMiAwDQp2IC03MjAgLTM4NCAwDQp2IC02NzIgLTM4NCAwDQp2IC02MjQgLTQzMiAwDQp2IC02NzIgLTQzMiAwDQp2IC02NzIgLTM4NCAwDQp2IC02MjQgLTM4NCAwDQp2IC01NzYgLTQzMiAwDQp2IC02MjQgLTQzMiAwDQp2IC02MjQgLTM4NCAwDQp2IC01NzYgLTM4NCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC41DQp2dCAwLjUgMC41DQp2dCAwLjUgMC43NQ0KdnQgMCAwLjc1DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDAyNA0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQpmIDE3LzEvMSAxOC8yLzEgMTkvMy8xIDIwLzQvMQpmIDIxLzEvMSAyMi8yLzEgMjMvMy8xIDI0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0025.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAyNS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTYpDQp2IC01NzYgLTU3NiAwDQp2IC02MjQgLTU3NiAwDQp2IC02MjQgLTUyOCAwDQp2IC01NzYgLTUyOCAwDQp2IC01MjggLTU3NiAwDQp2IC01NzYgLTU3NiAwDQp2IC01NzYgLTUyOCAwDQp2IC01MjggLTUyOCAwDQp2IC01NzYgLTUyOCAwDQp2IC02MjQgLTUyOCAwDQp2IC02MjQgLTQ4MCAwDQp2IC01NzYgLTQ4MCAwDQp2IC01MjggLTUyOCAwDQp2IC01NzYgLTUyOCAwDQp2IC01NzYgLTQ4MCAwDQp2IC01MjggLTQ4MCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC41DQp2dCAwLjUgMC41DQp2dCAwLjUgMC43NQ0KdnQgMCAwLjc1DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDAyNQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0026.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAyNi5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTYpDQp2IC02MjQgLTk2IDANCnYgLTY3MiAtOTYgMA0KdiAtNjcyIC00OCAwDQp2IC02MjQgLTQ4IDANCnYgLTU3NiAtOTYgMA0KdiAtNjI0IC05NiAwDQp2IC02MjQgLTQ4IDANCnYgLTU3NiAtNDggMA0KdiAtNjI0IC00OCAwDQp2IC02NzIgLTQ4IDANCnYgLTY3MiAwIDANCnYgLTYyNCAwIDANCnYgLTU3NiAtNDggMA0KdiAtNjI0IC00OCAwDQp2IC02MjQgMCAwDQp2IC01NzYgMCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC41DQp2dCAwLjUgMC41DQp2dCAwLjUgMC43NQ0KdnQgMCAwLjc1DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDAyNg0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0027.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAyNy5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTYpDQp2IC01NzYgLTI4OCAwDQp2IC02MjQgLTI4OCAwDQp2IC02MjQgLTI0MCAwDQp2IC01NzYgLTI0MCAwDQp2IC01NzYgLTI0MCAwDQp2IC02MjQgLTI0MCAwDQp2IC02MjQgLTE5MiAwDQp2IC01NzYgLTE5MiAwDQp2IC01NzYgLTE5MiAwDQp2IC02MjQgLTE5MiAwDQp2IC02MjQgLTE0NCAwDQp2IC01NzYgLTE0NCAwDQp2IC01NzYgLTE0NCAwDQp2IC02MjQgLTE0NCAwDQp2IC02MjQgLTk2IDANCnYgLTU3NiAtOTYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDAuNQ0KdnQgMC41IDAuNQ0KdnQgMC41IDAuNzUNCnZ0IDAgMC43NQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBNYXAzYV9tZXNoXzAwMjcNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQpmIDUvMS8xIDYvMi8xIDcvMy8xIDgvNC8xCmYgOS8xLzEgMTAvMi8xIDExLzMvMSAxMi80LzEKZiAxMy8xLzEgMTQvMi8xIDE1LzMvMSAxNi80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0028.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAyOC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTY3MiAtMjQwIDANCnYgLTcyMCAtMjQwIDANCnYgLTcyMCAtMTkyIDANCnYgLTY3MiAtMTkyIDANCnYgLTYyNCAtMjQwIDANCnYgLTY3MiAtMjQwIDANCnYgLTY3MiAtMTkyIDANCnYgLTYyNCAtMTkyIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwLjUNCnZ0IDAuNSAwLjUNCnZ0IDAuNSAwLjc1DQp2dCAwIDAuNzUNCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDI4DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0029.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAyOS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTcyMCAtMjg4IDANCnYgLTc2OCAtMjg4IDANCnYgLTc2OCAtMjQwIDANCnYgLTcyMCAtMjQwIDANCnYgLTcyMCAtMjQwIDANCnYgLTc2OCAtMjQwIDANCnYgLTc2OCAtMTkyIDANCnYgLTcyMCAtMTkyIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwLjUNCnZ0IDAuNSAwLjUNCnZ0IDAuNSAwLjc1DQp2dCAwIDAuNzUNCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDI5DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0030.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAzMC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMjQpDQp2IC0zMzYgLTI4OCAwDQp2IC0zODQgLTI4OCAwDQp2IC0zODQgLTI0MCAwDQp2IC0zMzYgLTI0MCAwDQp2IC0yODggLTI4OCAwDQp2IC0zMzYgLTI4OCAwDQp2IC0zMzYgLTI0MCAwDQp2IC0yODggLTI0MCAwDQp2IC0zMzYgLTI0MCAwDQp2IC0zODQgLTI0MCAwDQp2IC0zODQgLTE5MiAwDQp2IC0zMzYgLTE5MiAwDQp2IC0yODggLTI0MCAwDQp2IC0zMzYgLTI0MCAwDQp2IC0zMzYgLTE5MiAwDQp2IC0yODggLTE5MiAwDQp2IC0zMzYgLTE5MiAwDQp2IC0zODQgLTE5MiAwDQp2IC0zODQgLTE0NCAwDQp2IC0zMzYgLTE0NCAwDQp2IC0yODggLTE5MiAwDQp2IC0zMzYgLTE5MiAwDQp2IC0zMzYgLTE0NCAwDQp2IC0yODggLTE0NCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC41DQp2dCAwLjUgMC41DQp2dCAwLjUgMC43NQ0KdnQgMCAwLjc1DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDAzMA0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQpmIDE3LzEvMSAxOC8yLzEgMTkvMy8xIDIwLzQvMQpmIDIxLzEvMSAyMi8yLzEgMjMvMy8xIDI0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0031.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAzMS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMzYpDQp2IC02MjQgLTcyMCAwDQp2IC02NzIgLTcyMCAwDQp2IC02NzIgLTY3MiAwDQp2IC02MjQgLTY3MiAwDQp2IC01NzYgLTcyMCAwDQp2IC02MjQgLTcyMCAwDQp2IC02MjQgLTY3MiAwDQp2IC01NzYgLTY3MiAwDQp2IC01MjggLTcyMCAwDQp2IC01NzYgLTcyMCAwDQp2IC01NzYgLTY3MiAwDQp2IC01MjggLTY3MiAwDQp2IC02MjQgLTY3MiAwDQp2IC02NzIgLTY3MiAwDQp2IC02NzIgLTYyNCAwDQp2IC02MjQgLTYyNCAwDQp2IC01NzYgLTY3MiAwDQp2IC02MjQgLTY3MiAwDQp2IC02MjQgLTYyNCAwDQp2IC01NzYgLTYyNCAwDQp2IC01MjggLTY3MiAwDQp2IC01NzYgLTY3MiAwDQp2IC01NzYgLTYyNCAwDQp2IC01MjggLTYyNCAwDQp2IC02MjQgLTYyNCAwDQp2IC02NzIgLTYyNCAwDQp2IC02NzIgLTU3NiAwDQp2IC02MjQgLTU3NiAwDQp2IC01NzYgLTYyNCAwDQp2IC02MjQgLTYyNCAwDQp2IC02MjQgLTU3NiAwDQp2IC01NzYgLTU3NiAwDQp2IC01MjggLTYyNCAwDQp2IC01NzYgLTYyNCAwDQp2IC01NzYgLTU3NiAwDQp2IC01MjggLTU3NiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAuNSAwLjUNCnZ0IDEgMC41DQp2dCAxIDAuNzUNCnZ0IDAuNSAwLjc1DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDAzMQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQpmIDE3LzEvMSAxOC8yLzEgMTkvMy8xIDIwLzQvMQpmIDIxLzEvMSAyMi8yLzEgMjMvMy8xIDI0LzQvMQpmIDI1LzEvMSAyNi8yLzEgMjcvMy8xIDI4LzQvMQpmIDI5LzEvMSAzMC8yLzEgMzEvMy8xIDMyLzQvMQpmIDMzLzEvMSAzNC8yLzEgMzUvMy8xIDM2LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0032.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAzMi5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTY3MiAtNzY4IDANCnYgLTcyMCAtNzY4IDANCnYgLTcyMCAtNzIwIDANCnYgLTY3MiAtNzIwIDANCnYgLTYyNCAtNzY4IDANCnYgLTY3MiAtNzY4IDANCnYgLTY3MiAtNzIwIDANCnYgLTYyNCAtNzIwIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMC41IDAuNQ0KdnQgMSAwLjUNCnZ0IDEgMC43NQ0KdnQgMC41IDAuNzUNCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDMyDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0033.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAzMy5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gNCkNCnYgLTY3MiAtNzIwIDANCnYgLTcyMCAtNzIwIDANCnYgLTcyMCAtNjcyIDANCnYgLTY3MiAtNjcyIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMC41IDAuNQ0KdnQgMSAwLjUNCnZ0IDEgMC43NQ0KdnQgMC41IDAuNzUNCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDMzDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0034.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAzNC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTYpDQp2IC0yNDAgLTUyOCAwDQp2IC0yODggLTUyOCAwDQp2IC0yODggLTQ4MCAwDQp2IC0yNDAgLTQ4MCAwDQp2IC0yNDAgLTQ4MCAwDQp2IC0yODggLTQ4MCAwDQp2IC0yODggLTQzMiAwDQp2IC0yNDAgLTQzMiAwDQp2IC0yNDAgLTQzMiAwDQp2IC0yODggLTQzMiAwDQp2IC0yODggLTM4NCAwDQp2IC0yNDAgLTM4NCAwDQp2IC0yNDAgLTM4NCAwDQp2IC0yODggLTM4NCAwDQp2IC0yODggLTMzNiAwDQp2IC0yNDAgLTMzNiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAuNSAwLjUNCnZ0IDEgMC41DQp2dCAxIDAuNzUNCnZ0IDAuNSAwLjc1DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDAzNA0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0035.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAzNS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTMzNiAtMzg0IDANCnYgLTM4NCAtMzg0IDANCnYgLTM4NCAtMzM2IDANCnYgLTMzNiAtMzM2IDANCnYgLTI4OCAtMzg0IDANCnYgLTMzNiAtMzg0IDANCnYgLTMzNiAtMzM2IDANCnYgLTI4OCAtMzM2IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMC41IDAuNQ0KdnQgMSAwLjUNCnZ0IDEgMC43NQ0KdnQgMC41IDAuNzUNCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDM1DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0036.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAzNi5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTMzNiAtNTI4IDANCnYgLTM4NCAtNTI4IDANCnYgLTM4NCAtNDgwIDANCnYgLTMzNiAtNDgwIDANCnYgLTI4OCAtNTI4IDANCnYgLTMzNiAtNTI4IDANCnYgLTMzNiAtNDgwIDANCnYgLTI4OCAtNDgwIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMC41IDAuNQ0KdnQgMSAwLjUNCnZ0IDEgMC43NQ0KdnQgMC41IDAuNzUNCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDM2DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0037.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAzNy5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTYpDQp2IC0zODQgLTUyOCAwDQp2IC00MzIgLTUyOCAwDQp2IC00MzIgLTQ4MCAwDQp2IC0zODQgLTQ4MCAwDQp2IC0zODQgLTQ4MCAwDQp2IC00MzIgLTQ4MCAwDQp2IC00MzIgLTQzMiAwDQp2IC0zODQgLTQzMiAwDQp2IC0zODQgLTQzMiAwDQp2IC00MzIgLTQzMiAwDQp2IC00MzIgLTM4NCAwDQp2IC0zODQgLTM4NCAwDQp2IC0zODQgLTM4NCAwDQp2IC00MzIgLTM4NCAwDQp2IC00MzIgLTMzNiAwDQp2IC0zODQgLTMzNiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAuNSAwLjUNCnZ0IDEgMC41DQp2dCAxIDAuNzUNCnZ0IDAuNSAwLjc1DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDAzNw0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0038.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAzOC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMzIpDQp2IC04NjQgLTcyMCAwDQp2IC05MTIgLTcyMCAwDQp2IC05MTIgLTY3MiAwDQp2IC04NjQgLTY3MiAwDQp2IC04MTYgLTcyMCAwDQp2IC04NjQgLTcyMCAwDQp2IC04NjQgLTY3MiAwDQp2IC04MTYgLTY3MiAwDQp2IC03NjggLTcyMCAwDQp2IC04MTYgLTcyMCAwDQp2IC04MTYgLTY3MiAwDQp2IC03NjggLTY3MiAwDQp2IC03MjAgLTcyMCAwDQp2IC03NjggLTcyMCAwDQp2IC03NjggLTY3MiAwDQp2IC03MjAgLTY3MiAwDQp2IC04NjQgLTY3MiAwDQp2IC05MTIgLTY3MiAwDQp2IC05MTIgLTYyNCAwDQp2IC04NjQgLTYyNCAwDQp2IC04MTYgLTY3MiAwDQp2IC04NjQgLTY3MiAwDQp2IC04NjQgLTYyNCAwDQp2IC04MTYgLTYyNCAwDQp2IC03NjggLTY3MiAwDQp2IC04MTYgLTY3MiAwDQp2IC04MTYgLTYyNCAwDQp2IC03NjggLTYyNCAwDQp2IC03MjAgLTY3MiAwDQp2IC03NjggLTY3MiAwDQp2IC03NjggLTYyNCAwDQp2IC03MjAgLTYyNCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC4yNQ0KdnQgMC41IDAuMjUNCnZ0IDAuNSAwLjUNCnZ0IDAgMC41DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDAzOA0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQpmIDE3LzEvMSAxOC8yLzEgMTkvMy8xIDIwLzQvMQpmIDIxLzEvMSAyMi8yLzEgMjMvMy8xIDI0LzQvMQpmIDI1LzEvMSAyNi8yLzEgMjcvMy8xIDI4LzQvMQpmIDI5LzEvMSAzMC8yLzEgMzEvMy8xIDMyLzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0039.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDAzOS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTIpDQp2IC04MTYgLTU3NiAwDQp2IC04NjQgLTU3NiAwDQp2IC04NjQgLTUyOCAwDQp2IC04MTYgLTUyOCAwDQp2IC04MTYgLTUyOCAwDQp2IC04NjQgLTUyOCAwDQp2IC04NjQgLTQ4MCAwDQp2IC04MTYgLTQ4MCAwDQp2IC04MTYgLTQ4MCAwDQp2IC04NjQgLTQ4MCAwDQp2IC04NjQgLTQzMiAwDQp2IC04MTYgLTQzMiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC4yNQ0KdnQgMC41IDAuMjUNCnZ0IDAuNSAwLjUNCnZ0IDAgMC41DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDAzOQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0040.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA0MC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMjApDQp2IC04NjQgLTU3NiAwDQp2IC05MTIgLTU3NiAwDQp2IC05MTIgLTUyOCAwDQp2IC04NjQgLTUyOCAwDQp2IC04NjQgLTUyOCAwDQp2IC05MTIgLTUyOCAwDQp2IC05MTIgLTQ4MCAwDQp2IC04NjQgLTQ4MCAwDQp2IC04NjQgLTQ4MCAwDQp2IC05MTIgLTQ4MCAwDQp2IC05MTIgLTQzMiAwDQp2IC04NjQgLTQzMiAwDQp2IC04NjQgLTQzMiAwDQp2IC05MTIgLTQzMiAwDQp2IC05MTIgLTM4NCAwDQp2IC04NjQgLTM4NCAwDQp2IC04NjQgLTM4NCAwDQp2IC05MTIgLTM4NCAwDQp2IC05MTIgLTMzNiAwDQp2IC04NjQgLTMzNiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC4yNQ0KdnQgMC41IDAuMjUNCnZ0IDAuNSAwLjUNCnZ0IDAgMC41DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDA0MA0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQpmIDE3LzEvMSAxOC8yLzEgMTkvMy8xIDIwLzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0041.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA0MS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMjgpDQp2IC05MTIgLTU3NiAwDQp2IC05NjAgLTU3NiAwDQp2IC05NjAgLTUyOCAwDQp2IC05MTIgLTUyOCAwDQp2IC05MTIgLTUyOCAwDQp2IC05NjAgLTUyOCAwDQp2IC05NjAgLTQ4MCAwDQp2IC05MTIgLTQ4MCAwDQp2IC05MTIgLTQ4MCAwDQp2IC05NjAgLTQ4MCAwDQp2IC05NjAgLTQzMiAwDQp2IC05MTIgLTQzMiAwDQp2IC05MTIgLTQzMiAwDQp2IC05NjAgLTQzMiAwDQp2IC05NjAgLTM4NCAwDQp2IC05MTIgLTM4NCAwDQp2IC05MTIgLTM4NCAwDQp2IC05NjAgLTM4NCAwDQp2IC05NjAgLTMzNiAwDQp2IC05MTIgLTMzNiAwDQp2IC05MTIgLTMzNiAwDQp2IC05NjAgLTMzNiAwDQp2IC05NjAgLTI4OCAwDQp2IC05MTIgLTI4OCAwDQp2IC05MTIgLTI4OCAwDQp2IC05NjAgLTI4OCAwDQp2IC05NjAgLTI0MCAwDQp2IC05MTIgLTI0MCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC4yNQ0KdnQgMC41IDAuMjUNCnZ0IDAuNSAwLjUNCnZ0IDAgMC41DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDA0MQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQpmIDE3LzEvMSAxOC8yLzEgMTkvMy8xIDIwLzQvMQpmIDIxLzEvMSAyMi8yLzEgMjMvMy8xIDI0LzQvMQpmIDI1LzEvMSAyNi8yLzEgMjcvMy8xIDI4LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0042.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA0Mi5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMjQpDQp2IC02NzIgLTM4NCAwDQp2IC03MjAgLTM4NCAwDQp2IC03MjAgLTMzNiAwDQp2IC02NzIgLTMzNiAwDQp2IC02MjQgLTM4NCAwDQp2IC02NzIgLTM4NCAwDQp2IC02NzIgLTMzNiAwDQp2IC02MjQgLTMzNiAwDQp2IC02NzIgLTMzNiAwDQp2IC03MjAgLTMzNiAwDQp2IC03MjAgLTI4OCAwDQp2IC02NzIgLTI4OCAwDQp2IC02MjQgLTMzNiAwDQp2IC02NzIgLTMzNiAwDQp2IC02NzIgLTI4OCAwDQp2IC02MjQgLTI4OCAwDQp2IC02NzIgLTI4OCAwDQp2IC03MjAgLTI4OCAwDQp2IC03MjAgLTI0MCAwDQp2IC02NzIgLTI0MCAwDQp2IC02MjQgLTI4OCAwDQp2IC02NzIgLTI4OCAwDQp2IC02NzIgLTI0MCAwDQp2IC02MjQgLTI0MCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC4yNQ0KdnQgMC41IDAuMjUNCnZ0IDAuNSAwLjUNCnZ0IDAgMC41DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDA0Mg0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQpmIDE3LzEvMSAxOC8yLzEgMTkvMy8xIDIwLzQvMQpmIDIxLzEvMSAyMi8yLzEgMjMvMy8xIDI0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0043.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA0My5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTU3NiAtMzg0IDANCnYgLTYyNCAtMzg0IDANCnYgLTYyNCAtMzM2IDANCnYgLTU3NiAtMzM2IDANCnYgLTU3NiAtMzM2IDANCnYgLTYyNCAtMzM2IDANCnYgLTYyNCAtMjg4IDANCnYgLTU3NiAtMjg4IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwLjI1DQp2dCAwLjUgMC4yNQ0KdnQgMC41IDAuNQ0KdnQgMCAwLjUNCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDQzDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0044.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA0NC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMjQpDQp2IC0xNDQgLTMzNiAwDQp2IC0xOTIgLTMzNiAwDQp2IC0xOTIgLTI4OCAwDQp2IC0xNDQgLTI4OCAwDQp2IC05NiAtMzM2IDANCnYgLTE0NCAtMzM2IDANCnYgLTE0NCAtMjg4IDANCnYgLTk2IC0yODggMA0KdiAtNDggLTMzNiAwDQp2IC05NiAtMzM2IDANCnYgLTk2IC0yODggMA0KdiAtNDggLTI4OCAwDQp2IC0xNDQgLTI4OCAwDQp2IC0xOTIgLTI4OCAwDQp2IC0xOTIgLTI0MCAwDQp2IC0xNDQgLTI0MCAwDQp2IC05NiAtMjg4IDANCnYgLTE0NCAtMjg4IDANCnYgLTE0NCAtMjQwIDANCnYgLTk2IC0yNDAgMA0KdiAtNDggLTI4OCAwDQp2IC05NiAtMjg4IDANCnYgLTk2IC0yNDAgMA0KdiAtNDggLTI0MCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC4yNQ0KdnQgMC41IDAuMjUNCnZ0IDAuNSAwLjUNCnZ0IDAgMC41DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDA0NA0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQpmIDE3LzEvMSAxOC8yLzEgMTkvMy8xIDIwLzQvMQpmIDIxLzEvMSAyMi8yLzEgMjMvMy8xIDI0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0045.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA0NS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTIpDQp2IC0xOTIgLTI0MCAwDQp2IC0yNDAgLTI0MCAwDQp2IC0yNDAgLTE5MiAwDQp2IC0xOTIgLTE5MiAwDQp2IC0xNDQgLTI0MCAwDQp2IC0xOTIgLTI0MCAwDQp2IC0xOTIgLTE5MiAwDQp2IC0xNDQgLTE5MiAwDQp2IC05NiAtMjQwIDANCnYgLTE0NCAtMjQwIDANCnYgLTE0NCAtMTkyIDANCnYgLTk2IC0xOTIgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDAuMjUNCnZ0IDAuNSAwLjI1DQp2dCAwLjUgMC41DQp2dCAwIDAuNQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBNYXAzYV9tZXNoXzAwNDUNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQpmIDUvMS8xIDYvMi8xIDcvMy8xIDgvNC8xCmYgOS8xLzEgMTAvMi8xIDExLzMvMSAxMi80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0046.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA0Ni5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTIpDQp2IC0yNDAgLTE5MiAwDQp2IC0yODggLTE5MiAwDQp2IC0yODggLTE0NCAwDQp2IC0yNDAgLTE0NCAwDQp2IC0xOTIgLTE5MiAwDQp2IC0yNDAgLTE5MiAwDQp2IC0yNDAgLTE0NCAwDQp2IC0xOTIgLTE0NCAwDQp2IC0xNDQgLTE5MiAwDQp2IC0xOTIgLTE5MiAwDQp2IC0xOTIgLTE0NCAwDQp2IC0xNDQgLTE0NCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMC4yNQ0KdnQgMC41IDAuMjUNCnZ0IDAuNSAwLjUNCnZ0IDAgMC41DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDA0Ng0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0047.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA0Ny5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTI0MCAtMTQ0IDANCnYgLTI4OCAtMTQ0IDANCnYgLTI4OCAtOTYgMA0KdiAtMjQwIC05NiAwDQp2IC0xOTIgLTE0NCAwDQp2IC0yNDAgLTE0NCAwDQp2IC0yNDAgLTk2IDANCnYgLTE5MiAtOTYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDAuMjUNCnZ0IDAuNSAwLjI1DQp2dCAwLjUgMC41DQp2dCAwIDAuNQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBNYXAzYV9tZXNoXzAwNDcNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQpmIDUvMS8xIDYvMi8xIDcvMy8xIDgvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0048.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA0OC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTQ4MCAtNTI4IDANCnYgLTUyOCAtNTI4IDANCnYgLTUyOCAtNDgwIDANCnYgLTQ4MCAtNDgwIDANCnYgLTQzMiAtNTI4IDANCnYgLTQ4MCAtNTI4IDANCnYgLTQ4MCAtNDgwIDANCnYgLTQzMiAtNDgwIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMC41IDAuMjUNCnZ0IDEgMC4yNQ0KdnQgMSAwLjUNCnZ0IDAuNSAwLjUNCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDQ4DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0049.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA0OS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMTYpDQp2IC05MTIgLTI0MCAwDQp2IC05NjAgLTI0MCAwDQp2IC05NjAgLTE5MiAwDQp2IC05MTIgLTE5MiAwDQp2IC04NjQgLTI0MCAwDQp2IC05MTIgLTI0MCAwDQp2IC05MTIgLTE5MiAwDQp2IC04NjQgLTE5MiAwDQp2IC05MTIgLTE5MiAwDQp2IC05NjAgLTE5MiAwDQp2IC05NjAgLTE0NCAwDQp2IC05MTIgLTE0NCAwDQp2IC04NjQgLTE5MiAwDQp2IC05MTIgLTE5MiAwDQp2IC05MTIgLTE0NCAwDQp2IC04NjQgLTE0NCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAuNSAwLjI1DQp2dCAxIDAuMjUNCnZ0IDEgMC41DQp2dCAwLjUgMC41DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDA0OQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0050.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA1MC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMzIpDQp2IC01MjggLTQ4IDANCnYgLTU3NiAtNDggMA0KdiAtNTc2IDAgMA0KdiAtNTI4IDAgMA0KdiAtNDgwIC00OCAwDQp2IC01MjggLTQ4IDANCnYgLTUyOCAwIDANCnYgLTQ4MCAwIDANCnYgLTQzMiAtNDggMA0KdiAtNDgwIC00OCAwDQp2IC00ODAgMCAwDQp2IC00MzIgMCAwDQp2IC0zODQgLTQ4IDANCnYgLTQzMiAtNDggMA0KdiAtNDMyIDAgMA0KdiAtMzg0IDAgMA0KdiAtMzM2IC00OCAwDQp2IC0zODQgLTQ4IDANCnYgLTM4NCAwIDANCnYgLTMzNiAwIDANCnYgLTI4OCAtNDggMA0KdiAtMzM2IC00OCAwDQp2IC0zMzYgMCAwDQp2IC0yODggMCAwDQp2IC0yNDAgLTQ4IDANCnYgLTI4OCAtNDggMA0KdiAtMjg4IDAgMA0KdiAtMjQwIDAgMA0KdiAtMTkyIC00OCAwDQp2IC0yNDAgLTQ4IDANCnYgLTI0MCAwIDANCnYgLTE5MiAwIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMC41IDAuMjUNCnZ0IDEgMC4yNQ0KdnQgMSAwLjUNCnZ0IDAuNSAwLjUNCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDUwDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCmYgMTMvMS8xIDE0LzIvMSAxNS8zLzEgMTYvNC8xCmYgMTcvMS8xIDE4LzIvMSAxOS8zLzEgMjAvNC8xCmYgMjEvMS8xIDIyLzIvMSAyMy8zLzEgMjQvNC8xCmYgMjUvMS8xIDI2LzIvMSAyNy8zLzEgMjgvNC8xCmYgMjkvMS8xIDMwLzIvMSAzMS8zLzEgMzIvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0051.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA1MS5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gOCkNCnYgLTUyOCAtOTYgMA0KdiAtNTc2IC05NiAwDQp2IC01NzYgLTQ4IDANCnYgLTUyOCAtNDggMA0KdiAtNDgwIC05NiAwDQp2IC01MjggLTk2IDANCnYgLTUyOCAtNDggMA0KdiAtNDgwIC00OCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAuNSAwLjI1DQp2dCAxIDAuMjUNCnZ0IDEgMC41DQp2dCAwLjUgMC41DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDA1MQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0052.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA1Mi5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gNDApDQp2IC05NiAtNTc2IDANCnYgLTE0NCAtNTc2IDANCnYgLTE0NCAtNTI4IDANCnYgLTk2IC01MjggMA0KdiAtNDggLTU3NiAwDQp2IC05NiAtNTc2IDANCnYgLTk2IC01MjggMA0KdiAtNDggLTUyOCAwDQp2IC05NiAtNTI4IDANCnYgLTE0NCAtNTI4IDANCnYgLTE0NCAtNDgwIDANCnYgLTk2IC00ODAgMA0KdiAtNDggLTUyOCAwDQp2IC05NiAtNTI4IDANCnYgLTk2IC00ODAgMA0KdiAtNDggLTQ4MCAwDQp2IC05NiAtNDgwIDANCnYgLTE0NCAtNDgwIDANCnYgLTE0NCAtNDMyIDANCnYgLTk2IC00MzIgMA0KdiAtNDggLTQ4MCAwDQp2IC05NiAtNDgwIDANCnYgLTk2IC00MzIgMA0KdiAtNDggLTQzMiAwDQp2IC05NiAtNDMyIDANCnYgLTE0NCAtNDMyIDANCnYgLTE0NCAtMzg0IDANCnYgLTk2IC0zODQgMA0KdiAtNDggLTQzMiAwDQp2IC05NiAtNDMyIDANCnYgLTk2IC0zODQgMA0KdiAtNDggLTM4NCAwDQp2IC05NiAtMzg0IDANCnYgLTE0NCAtMzg0IDANCnYgLTE0NCAtMzM2IDANCnYgLTk2IC0zMzYgMA0KdiAtNDggLTM4NCAwDQp2IC05NiAtMzg0IDANCnYgLTk2IC0zMzYgMA0KdiAtNDggLTMzNiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAuNSAwLjI1DQp2dCAxIDAuMjUNCnZ0IDEgMC41DQp2dCAwLjUgMC41DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDA1Mg0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQpmIDE3LzEvMSAxOC8yLzEgMTkvMy8xIDIwLzQvMQpmIDIxLzEvMSAyMi8yLzEgMjMvMy8xIDI0LzQvMQpmIDI1LzEvMSAyNi8yLzEgMjcvMy8xIDI4LzQvMQpmIDI5LzEvMSAzMC8yLzEgMzEvMy8xIDMyLzQvMQpmIDMzLzEvMSAzNC8yLzEgMzUvMy8xIDM2LzQvMQpmIDM3LzEvMSAzOC8yLzEgMzkvMy8xIDQwLzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0053.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA1My5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMzYpDQp2IC05MTIgLTE0NCAwDQp2IC05NjAgLTE0NCAwDQp2IC05NjAgLTk2IDANCnYgLTkxMiAtOTYgMA0KdiAtODY0IC0xNDQgMA0KdiAtOTEyIC0xNDQgMA0KdiAtOTEyIC05NiAwDQp2IC04NjQgLTk2IDANCnYgLTgxNiAtMTQ0IDANCnYgLTg2NCAtMTQ0IDANCnYgLTg2NCAtOTYgMA0KdiAtODE2IC05NiAwDQp2IC05MTIgLTk2IDANCnYgLTk2MCAtOTYgMA0KdiAtOTYwIC00OCAwDQp2IC05MTIgLTQ4IDANCnYgLTg2NCAtOTYgMA0KdiAtOTEyIC05NiAwDQp2IC05MTIgLTQ4IDANCnYgLTg2NCAtNDggMA0KdiAtODE2IC05NiAwDQp2IC04NjQgLTk2IDANCnYgLTg2NCAtNDggMA0KdiAtODE2IC00OCAwDQp2IC05MTIgLTQ4IDANCnYgLTk2MCAtNDggMA0KdiAtOTYwIDAgMA0KdiAtOTEyIDAgMA0KdiAtODY0IC00OCAwDQp2IC05MTIgLTQ4IDANCnYgLTkxMiAwIDANCnYgLTg2NCAwIDANCnYgLTgxNiAtNDggMA0KdiAtODY0IC00OCAwDQp2IC04NjQgMCAwDQp2IC04MTYgMCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC41IDANCnZ0IDAuNSAwLjI1DQp2dCAwIDAuMjUNCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDUzDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCmYgMTMvMS8xIDE0LzIvMSAxNS8zLzEgMTYvNC8xCmYgMTcvMS8xIDE4LzIvMSAxOS8zLzEgMjAvNC8xCmYgMjEvMS8xIDIyLzIvMSAyMy8zLzEgMjQvNC8xCmYgMjUvMS8xIDI2LzIvMSAyNy8zLzEgMjgvNC8xCmYgMjkvMS8xIDMwLzIvMSAzMS8zLzEgMzIvNC8xCmYgMzMvMS8xIDM0LzIvMSAzNS8zLzEgMzYvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_0054.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA1NC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gNjQpDQp2IC0xNDQgLTc2OCAwDQp2IC0xOTIgLTc2OCAwDQp2IC0xOTIgLTcyMCAwDQp2IC0xNDQgLTcyMCAwDQp2IC05NiAtNzY4IDANCnYgLTE0NCAtNzY4IDANCnYgLTE0NCAtNzIwIDANCnYgLTk2IC03MjAgMA0KdiAtNDggLTc2OCAwDQp2IC05NiAtNzY4IDANCnYgLTk2IC03MjAgMA0KdiAtNDggLTcyMCAwDQp2IDAgLTc2OCAwDQp2IC00OCAtNzY4IDANCnYgLTQ4IC03MjAgMA0KdiAwIC03MjAgMA0KdiAtMTQ0IC03MjAgMA0KdiAtMTkyIC03MjAgMA0KdiAtMTkyIC02NzIgMA0KdiAtMTQ0IC02NzIgMA0KdiAtOTYgLTcyMCAwDQp2IC0xNDQgLTcyMCAwDQp2IC0xNDQgLTY3MiAwDQp2IC05NiAtNjcyIDANCnYgLTQ4IC03MjAgMA0KdiAtOTYgLTcyMCAwDQp2IC05NiAtNjcyIDANCnYgLTQ4IC02NzIgMA0KdiAwIC03MjAgMA0KdiAtNDggLTcyMCAwDQp2IC00OCAtNjcyIDANCnYgMCAtNjcyIDANCnYgLTE0NCAtNjcyIDANCnYgLTE5MiAtNjcyIDANCnYgLTE5MiAtNjI0IDANCnYgLTE0NCAtNjI0IDANCnYgLTk2IC02NzIgMA0KdiAtMTQ0IC02NzIgMA0KdiAtMTQ0IC02MjQgMA0KdiAtOTYgLTYyNCAwDQp2IC00OCAtNjcyIDANCnYgLTk2IC02NzIgMA0KdiAtOTYgLTYyNCAwDQp2IC00OCAtNjI0IDANCnYgMCAtNjcyIDANCnYgLTQ4IC02NzIgMA0KdiAtNDggLTYyNCAwDQp2IDAgLTYyNCAwDQp2IC0xNDQgLTYyNCAwDQp2IC0xOTIgLTYyNCAwDQp2IC0xOTIgLTU3NiAwDQp2IC0xNDQgLTU3NiAwDQp2IC05NiAtNjI0IDANCnYgLTE0NCAtNjI0IDANCnYgLTE0NCAtNTc2IDANCnYgLTk2IC01NzYgMA0KdiAtNDggLTYyNCAwDQp2IC05NiAtNjI0IDANCnYgLTk2IC01NzYgMA0KdiAtNDggLTU3NiAwDQp2IDAgLTYyNCAwDQp2IC00OCAtNjI0IDANCnYgLTQ4IC01NzYgMA0KdiAwIC01NzYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuNSAwDQp2dCAwLjUgMC4yNQ0KdnQgMCAwLjI1DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDA1NA0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQpmIDE3LzEvMSAxOC8yLzEgMTkvMy8xIDIwLzQvMQpmIDIxLzEvMSAyMi8yLzEgMjMvMy8xIDI0LzQvMQpmIDI1LzEvMSAyNi8yLzEgMjcvMy8xIDI4LzQvMQpmIDI5LzEvMSAzMC8yLzEgMzEvMy8xIDMyLzQvMQpmIDMzLzEvMSAzNC8yLzEgMzUvMy8xIDM2LzQvMQpmIDM3LzEvMSAzOC8yLzEgMzkvMy8xIDQwLzQvMQpmIDQxLzEvMSA0Mi8yLzEgNDMvMy8xIDQ0LzQvMQpmIDQ1LzEvMSA0Ni8yLzEgNDcvMy8xIDQ4LzQvMQpmIDQ5LzEvMSA1MC8yLzEgNTEvMy8xIDUyLzQvMQpmIDUzLzEvMSA1NC8yLzEgNTUvMy8xIDU2LzQvMQpmIDU3LzEvMSA1OC8yLzEgNTkvMy8xIDYwLzQvMQpmIDYxLzEvMSA2Mi8yLzEgNjMvMy8xIDY0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="Map3a_mesh_tile_0017.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfdGlsZV8wMDE3Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAwIC00OCAwDQp2IC00OCAtNDggMA0KdiAtNDggMCAwDQp2IDAgMCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMSAwDQp2dCAxIDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBNYXAzYV9tZXNoX3RpbGVfMDAxNw0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportTexture filename="Tiles.png">iVBORw0KGgoAAAANSUhEUgAAAGAAAADACAIAAAB05vGBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAJlSURBVHhe7dCxTRhRAATRK4QIWaIMUpDck3sBGqAPCiEhcQPnfAJPuD+Y1StgNdfPw6+j3H+ejlIgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBx3X/P8vj5+yj8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z1/X2fZTnl6+jFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSFzvrx9HuQ9bgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhXov7vvf8rjsvptovgJAAAAAElFTkSuQmCC</ImportTexture>
+  <ImportTexture filename="Coin.png">iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADPSURBVFhH7ZhLDoQgEAVx9t7/ns4BGBLxZSYNdI8feCRdG12ZSj0W6hJjDCd4L/mmwXrmya98peGfQpYqDWzBDEIXPSRNs7kmu70NqEeqCz1nA0paU0zWoQ0QkYRQTxvwpcU82ZA24IhEV4h2srF7gTX6ZBqEZ2jLdyT4ZBoupOFCGi6k4UIadEL+PqThQhq0hzrh32VFmCfbGf2zQQglejqJ3zH8k4EOnUSeRF0o8ZxTSWVnosnA7Z3qeRIGIXDRrOkBZpysiKWWLckPIXwAgNpcCeFtSxIAAAAASUVORK5CYII=</ImportTexture>
+</Tiled2Unity>
