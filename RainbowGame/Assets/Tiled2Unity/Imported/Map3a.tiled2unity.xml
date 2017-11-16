@@ -1,269 +1,269 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!--Tiled2Unity generated xml data-->
 <!--Do not modify by hand-->
-<!--Last exported: 11/14/2017 12:34:40 PM-->
+<!--Last exported: 11/16/2017 1:10:48 PM-->
 <Tiled2Unity version="1.0.13.0">
-  <AssignMaterial mesh="Map3a_mesh_0003" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0004" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0005" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0006" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0007" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0008" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0009" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0010" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0011" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0012" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0013" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0014" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0015" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0016" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0017" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0018" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0019" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0020" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0021" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0022" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0023" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0024" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0025" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0026" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0027" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0028" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0029" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0030" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0031" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0032" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0033" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0034" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0035" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0036" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0037" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0038" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0039" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0040" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0041" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0042" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0043" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0044" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0045" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0046" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0047" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0048" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0049" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0050" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0051" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0052" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0053" material="Tiles" />
-  <AssignMaterial mesh="Map3a_mesh_0054" material="Tiles" />
+  <AssignMaterial mesh="Map3a_mesh_0003" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0004" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0005" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0006" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0007" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0008" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0009" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0010" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0011" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0012" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0013" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0014" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0015" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0016" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0017" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0018" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0019" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0020" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0021" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0022" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0023" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0024" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0025" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0026" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0027" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0028" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0029" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0030" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0031" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0032" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0033" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0034" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0035" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0036" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0037" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0038" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0039" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0040" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0041" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0042" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0043" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0044" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0045" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0046" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0047" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0048" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0049" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0050" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0051" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0052" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0053" material="Tiles2" />
+  <AssignMaterial mesh="Map3a_mesh_0054" material="Tiles2" />
   <AssignMaterial mesh="Map3a_mesh_tile_0017" material="Coin" />
   <Prefab name="Map3a" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="52" numTilesWide="20" numTilesHigh="20" tileWidth="48" tileHeight="48" exportScale="1" mapWidthInPixels="960" mapHeightInPixels="960" backgroundColor="#808080">
     <GameObject name="Red0" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0003" sortingLayerName="" sortingOrder="0" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0003" sortingLayerName="" sortingOrder="0" opacity="1" />
     </GameObject>
     <GameObject name="Red1" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0004" sortingLayerName="" sortingOrder="1" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0004" sortingLayerName="" sortingOrder="1" opacity="1" />
     </GameObject>
     <GameObject name="Red6" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0005" sortingLayerName="" sortingOrder="2" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0005" sortingLayerName="" sortingOrder="2" opacity="1" />
     </GameObject>
     <GameObject name="Red7" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0006" sortingLayerName="" sortingOrder="3" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0006" sortingLayerName="" sortingOrder="3" opacity="1" />
     </GameObject>
     <GameObject name="Red8" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0007" sortingLayerName="" sortingOrder="4" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0007" sortingLayerName="" sortingOrder="4" opacity="1" />
     </GameObject>
     <GameObject name="Red9" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0008" sortingLayerName="" sortingOrder="5" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0008" sortingLayerName="" sortingOrder="5" opacity="1" />
     </GameObject>
     <GameObject name="Red2" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0009" sortingLayerName="" sortingOrder="6" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0009" sortingLayerName="" sortingOrder="6" opacity="1" />
     </GameObject>
     <GameObject name="Red10" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0010" sortingLayerName="" sortingOrder="7" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0010" sortingLayerName="" sortingOrder="7" opacity="1" />
     </GameObject>
     <GameObject name="Red11" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0011" sortingLayerName="" sortingOrder="8" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0011" sortingLayerName="" sortingOrder="8" opacity="1" />
     </GameObject>
     <GameObject name="Red3" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0012" sortingLayerName="" sortingOrder="9" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0012" sortingLayerName="" sortingOrder="9" opacity="1" />
     </GameObject>
     <GameObject name="Red4" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0013" sortingLayerName="" sortingOrder="10" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0013" sortingLayerName="" sortingOrder="10" opacity="1" />
     </GameObject>
     <GameObject name="Red12" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0014" sortingLayerName="" sortingOrder="11" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0014" sortingLayerName="" sortingOrder="11" opacity="1" />
     </GameObject>
     <GameObject name="Red13" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0015" sortingLayerName="" sortingOrder="12" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0015" sortingLayerName="" sortingOrder="12" opacity="1" />
     </GameObject>
     <GameObject name="Red5" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0016" sortingLayerName="" sortingOrder="13" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0016" sortingLayerName="" sortingOrder="13" opacity="1" />
     </GameObject>
     <GameObject name="Orange0" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0017" sortingLayerName="" sortingOrder="14" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0017" sortingLayerName="" sortingOrder="14" opacity="1" />
     </GameObject>
     <GameObject name="Orange3" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0018" sortingLayerName="" sortingOrder="15" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0018" sortingLayerName="" sortingOrder="15" opacity="1" />
     </GameObject>
     <GameObject name="Orange1" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0019" sortingLayerName="" sortingOrder="16" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0019" sortingLayerName="" sortingOrder="16" opacity="1" />
     </GameObject>
     <GameObject name="Orange4" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0020" sortingLayerName="" sortingOrder="17" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0020" sortingLayerName="" sortingOrder="17" opacity="1" />
     </GameObject>
     <GameObject name="Orange2" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0021" sortingLayerName="" sortingOrder="18" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0021" sortingLayerName="" sortingOrder="18" opacity="1" />
     </GameObject>
     <GameObject name="Yellow0" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0022" sortingLayerName="" sortingOrder="19" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0022" sortingLayerName="" sortingOrder="19" opacity="1" />
     </GameObject>
     <GameObject name="Yellow1" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0023" sortingLayerName="" sortingOrder="20" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0023" sortingLayerName="" sortingOrder="20" opacity="1" />
     </GameObject>
     <GameObject name="Yellow2" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0024" sortingLayerName="" sortingOrder="21" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0024" sortingLayerName="" sortingOrder="21" opacity="1" />
     </GameObject>
     <GameObject name="Yellow5" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0025" sortingLayerName="" sortingOrder="22" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0025" sortingLayerName="" sortingOrder="22" opacity="1" />
     </GameObject>
     <GameObject name="Yellow3" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0026" sortingLayerName="" sortingOrder="23" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0026" sortingLayerName="" sortingOrder="23" opacity="1" />
     </GameObject>
     <GameObject name="Yellow6" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0027" sortingLayerName="" sortingOrder="24" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0027" sortingLayerName="" sortingOrder="24" opacity="1" />
     </GameObject>
     <GameObject name="Yellow7" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0028" sortingLayerName="" sortingOrder="25" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0028" sortingLayerName="" sortingOrder="25" opacity="1" />
     </GameObject>
     <GameObject name="Yellow8" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0029" sortingLayerName="" sortingOrder="26" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0029" sortingLayerName="" sortingOrder="26" opacity="1" />
     </GameObject>
     <GameObject name="Yellow4" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0030" sortingLayerName="" sortingOrder="27" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0030" sortingLayerName="" sortingOrder="27" opacity="1" />
     </GameObject>
     <GameObject name="Green0" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0031" sortingLayerName="" sortingOrder="28" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0031" sortingLayerName="" sortingOrder="28" opacity="1" />
     </GameObject>
     <GameObject name="Green2" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0032" sortingLayerName="" sortingOrder="29" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0032" sortingLayerName="" sortingOrder="29" opacity="1" />
     </GameObject>
     <GameObject name="Green3" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0033" sortingLayerName="" sortingOrder="30" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0033" sortingLayerName="" sortingOrder="30" opacity="1" />
     </GameObject>
     <GameObject name="Green1" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0034" sortingLayerName="" sortingOrder="31" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0034" sortingLayerName="" sortingOrder="31" opacity="1" />
     </GameObject>
     <GameObject name="Green4" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0035" sortingLayerName="" sortingOrder="32" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0035" sortingLayerName="" sortingOrder="32" opacity="1" />
     </GameObject>
     <GameObject name="Green5" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0036" sortingLayerName="" sortingOrder="33" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0036" sortingLayerName="" sortingOrder="33" opacity="1" />
     </GameObject>
     <GameObject name="Green6" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0037" sortingLayerName="" sortingOrder="34" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0037" sortingLayerName="" sortingOrder="34" opacity="1" />
     </GameObject>
     <GameObject name="Blue0" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0038" sortingLayerName="" sortingOrder="35" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0038" sortingLayerName="" sortingOrder="35" opacity="1" />
     </GameObject>
     <GameObject name="Blue1" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0039" sortingLayerName="" sortingOrder="36" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0039" sortingLayerName="" sortingOrder="36" opacity="1" />
     </GameObject>
     <GameObject name="Blue4" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0040" sortingLayerName="" sortingOrder="37" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0040" sortingLayerName="" sortingOrder="37" opacity="1" />
     </GameObject>
     <GameObject name="Blue5" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0041" sortingLayerName="" sortingOrder="38" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0041" sortingLayerName="" sortingOrder="38" opacity="1" />
     </GameObject>
     <GameObject name="Blue2" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0042" sortingLayerName="" sortingOrder="39" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0042" sortingLayerName="" sortingOrder="39" opacity="1" />
     </GameObject>
     <GameObject name="Blue6" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0043" sortingLayerName="" sortingOrder="40" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0043" sortingLayerName="" sortingOrder="40" opacity="1" />
     </GameObject>
     <GameObject name="Blue3" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0044" sortingLayerName="" sortingOrder="41" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0044" sortingLayerName="" sortingOrder="41" opacity="1" />
     </GameObject>
     <GameObject name="Blue7" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0045" sortingLayerName="" sortingOrder="42" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0045" sortingLayerName="" sortingOrder="42" opacity="1" />
     </GameObject>
     <GameObject name="Blue8" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0046" sortingLayerName="" sortingOrder="43" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0046" sortingLayerName="" sortingOrder="43" opacity="1" />
     </GameObject>
     <GameObject name="Blue9" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0047" sortingLayerName="" sortingOrder="44" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0047" sortingLayerName="" sortingOrder="44" opacity="1" />
     </GameObject>
     <GameObject name="Indigo0" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0048" sortingLayerName="" sortingOrder="45" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0048" sortingLayerName="" sortingOrder="45" opacity="1" />
     </GameObject>
     <GameObject name="Indigo1" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0049" sortingLayerName="" sortingOrder="46" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0049" sortingLayerName="" sortingOrder="46" opacity="1" />
     </GameObject>
     <GameObject name="Indigo2" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0050" sortingLayerName="" sortingOrder="47" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0050" sortingLayerName="" sortingOrder="47" opacity="1" />
     </GameObject>
     <GameObject name="Indigo4" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0051" sortingLayerName="" sortingOrder="48" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0051" sortingLayerName="" sortingOrder="48" opacity="1" />
     </GameObject>
     <GameObject name="Indigo3" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0052" sortingLayerName="" sortingOrder="49" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0052" sortingLayerName="" sortingOrder="49" opacity="1" />
     </GameObject>
     <GameObject name="Violet0" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0053" sortingLayerName="" sortingOrder="50" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0053" sortingLayerName="" sortingOrder="50" opacity="1" />
     </GameObject>
     <GameObject name="Violet1" x="0" y="0" z="0">
       <TileLayer offsetX="0" offsetY="0" />
-      <GameObject name="Tiles" x="0" y="0" mesh="Map3a_mesh_0054" sortingLayerName="" sortingOrder="51" opacity="1" />
+      <GameObject name="Tiles2" x="0" y="0" mesh="Map3a_mesh_0054" sortingLayerName="" sortingOrder="51" opacity="1" />
     </GameObject>
     <GameObject name="Coins" x="0" y="0" z="0">
       <ObjectLayer offsetX="0" offsetY="0" color="#ff808080" />
@@ -448,6 +448,6 @@
   <ImportMesh filename="Map3a_mesh_0053.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA1My5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gMzYpDQp2IC05MTIgLTE0NCAwDQp2IC05NjAgLTE0NCAwDQp2IC05NjAgLTk2IDANCnYgLTkxMiAtOTYgMA0KdiAtODY0IC0xNDQgMA0KdiAtOTEyIC0xNDQgMA0KdiAtOTEyIC05NiAwDQp2IC04NjQgLTk2IDANCnYgLTgxNiAtMTQ0IDANCnYgLTg2NCAtMTQ0IDANCnYgLTg2NCAtOTYgMA0KdiAtODE2IC05NiAwDQp2IC05MTIgLTk2IDANCnYgLTk2MCAtOTYgMA0KdiAtOTYwIC00OCAwDQp2IC05MTIgLTQ4IDANCnYgLTg2NCAtOTYgMA0KdiAtOTEyIC05NiAwDQp2IC05MTIgLTQ4IDANCnYgLTg2NCAtNDggMA0KdiAtODE2IC05NiAwDQp2IC04NjQgLTk2IDANCnYgLTg2NCAtNDggMA0KdiAtODE2IC00OCAwDQp2IC05MTIgLTQ4IDANCnYgLTk2MCAtNDggMA0KdiAtOTYwIDAgMA0KdiAtOTEyIDAgMA0KdiAtODY0IC00OCAwDQp2IC05MTIgLTQ4IDANCnYgLTkxMiAwIDANCnYgLTg2NCAwIDANCnYgLTgxNiAtNDggMA0KdiAtODY0IC00OCAwDQp2IC04NjQgMCAwDQp2IC04MTYgMCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC41IDANCnZ0IDAuNSAwLjI1DQp2dCAwIDAuMjUNCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgTWFwM2FfbWVzaF8wMDUzDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCmYgMTMvMS8xIDE0LzIvMSAxNS8zLzEgMTYvNC8xCmYgMTcvMS8xIDE4LzIvMSAxOS8zLzEgMjAvNC8xCmYgMjEvMS8xIDIyLzIvMSAyMy8zLzEgMjQvNC8xCmYgMjUvMS8xIDI2LzIvMSAyNy8zLzEgMjgvNC8xCmYgMjkvMS8xIDMwLzIvMSAzMS8zLzEgMzIvNC8xCmYgMzMvMS8xIDM0LzIvMSAzNS8zLzEgMzYvNC8xCg0K</ImportMesh>
   <ImportMesh filename="Map3a_mesh_0054.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfMDA1NC5vYmonDQoNCiMgVmVydGljZXMgKENvdW50ID0gNjQpDQp2IC0xNDQgLTc2OCAwDQp2IC0xOTIgLTc2OCAwDQp2IC0xOTIgLTcyMCAwDQp2IC0xNDQgLTcyMCAwDQp2IC05NiAtNzY4IDANCnYgLTE0NCAtNzY4IDANCnYgLTE0NCAtNzIwIDANCnYgLTk2IC03MjAgMA0KdiAtNDggLTc2OCAwDQp2IC05NiAtNzY4IDANCnYgLTk2IC03MjAgMA0KdiAtNDggLTcyMCAwDQp2IDAgLTc2OCAwDQp2IC00OCAtNzY4IDANCnYgLTQ4IC03MjAgMA0KdiAwIC03MjAgMA0KdiAtMTQ0IC03MjAgMA0KdiAtMTkyIC03MjAgMA0KdiAtMTkyIC02NzIgMA0KdiAtMTQ0IC02NzIgMA0KdiAtOTYgLTcyMCAwDQp2IC0xNDQgLTcyMCAwDQp2IC0xNDQgLTY3MiAwDQp2IC05NiAtNjcyIDANCnYgLTQ4IC03MjAgMA0KdiAtOTYgLTcyMCAwDQp2IC05NiAtNjcyIDANCnYgLTQ4IC02NzIgMA0KdiAwIC03MjAgMA0KdiAtNDggLTcyMCAwDQp2IC00OCAtNjcyIDANCnYgMCAtNjcyIDANCnYgLTE0NCAtNjcyIDANCnYgLTE5MiAtNjcyIDANCnYgLTE5MiAtNjI0IDANCnYgLTE0NCAtNjI0IDANCnYgLTk2IC02NzIgMA0KdiAtMTQ0IC02NzIgMA0KdiAtMTQ0IC02MjQgMA0KdiAtOTYgLTYyNCAwDQp2IC00OCAtNjcyIDANCnYgLTk2IC02NzIgMA0KdiAtOTYgLTYyNCAwDQp2IC00OCAtNjI0IDANCnYgMCAtNjcyIDANCnYgLTQ4IC02NzIgMA0KdiAtNDggLTYyNCAwDQp2IDAgLTYyNCAwDQp2IC0xNDQgLTYyNCAwDQp2IC0xOTIgLTYyNCAwDQp2IC0xOTIgLTU3NiAwDQp2IC0xNDQgLTU3NiAwDQp2IC05NiAtNjI0IDANCnYgLTE0NCAtNjI0IDANCnYgLTE0NCAtNTc2IDANCnYgLTk2IC01NzYgMA0KdiAtNDggLTYyNCAwDQp2IC05NiAtNjI0IDANCnYgLTk2IC01NzYgMA0KdiAtNDggLTU3NiAwDQp2IDAgLTYyNCAwDQp2IC00OCAtNjI0IDANCnYgLTQ4IC01NzYgMA0KdiAwIC01NzYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuNSAwDQp2dCAwLjUgMC4yNQ0KdnQgMCAwLjI1DQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIE1hcDNhX21lc2hfMDA1NA0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzEvMSAxMC8yLzEgMTEvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMTUvMy8xIDE2LzQvMQpmIDE3LzEvMSAxOC8yLzEgMTkvMy8xIDIwLzQvMQpmIDIxLzEvMSAyMi8yLzEgMjMvMy8xIDI0LzQvMQpmIDI1LzEvMSAyNi8yLzEgMjcvMy8xIDI4LzQvMQpmIDI5LzEvMSAzMC8yLzEgMzEvMy8xIDMyLzQvMQpmIDMzLzEvMSAzNC8yLzEgMzUvMy8xIDM2LzQvMQpmIDM3LzEvMSAzOC8yLzEgMzkvMy8xIDQwLzQvMQpmIDQxLzEvMSA0Mi8yLzEgNDMvMy8xIDQ0LzQvMQpmIDQ1LzEvMSA0Ni8yLzEgNDcvMy8xIDQ4LzQvMQpmIDQ5LzEvMSA1MC8yLzEgNTEvMy8xIDUyLzQvMQpmIDUzLzEvMSA1NC8yLzEgNTUvMy8xIDU2LzQvMQpmIDU3LzEvMSA1OC8yLzEgNTkvMy8xIDYwLzQvMQpmIDYxLzEvMSA2Mi8yLzEgNjMvMy8xIDY0LzQvMQoNCg==</ImportMesh>
   <ImportMesh filename="Map3a_mesh_tile_0017.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ01hcDNhX21lc2hfdGlsZV8wMDE3Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAwIC00OCAwDQp2IC00OCAtNDggMA0KdiAtNDggMCAwDQp2IDAgMCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMSAwDQp2dCAxIDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBNYXAzYV9tZXNoX3RpbGVfMDAxNw0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
-  <ImportTexture filename="Tiles.png">iVBORw0KGgoAAAANSUhEUgAAAGAAAADACAIAAAB05vGBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAJlSURBVHhe7dCxTRhRAATRK4QIWaIMUpDck3sBGqAPCiEhcQPnfAJPuD+Y1StgNdfPw6+j3H+ejlIgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBx3X/P8vj5+yj8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z/DeHf3P8N4d/c/w3h39z1/X2fZTnl6+jFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSBRIFEgUSFzvrx9HuQ9bgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhVIViBZgWQFkhXov7vvf8rjsvptovgJAAAAAElFTkSuQmCC</ImportTexture>
+  <ImportTexture filename="Tiles2.png">iVBORw0KGgoAAAANSUhEUgAAAGAAAADACAYAAAD7hGbWAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAScgAAEnIBXmVb4wAAABl0RVh0U29mdHdhcmUAcGFpbnQubmV0IDQuMC4xOdTWsmQAAAIrSURBVHhe7dyxScZQFIDR/A5gY2NhJYIL2NsqCC6griKuoi4gCNrau4AgVhY2Ni4QJXGHjwfnQLh59ZdLureZpmn+e4gsAb73DtbTYHY+35c5Xx8uczSbm7dp6/+diAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiLmuJmYDYssGzD/rYTSb7XXuP5ytL4P5OH+0ATUBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRBzX1DMBsTWDbj9Wk+judpdxvHJ6zJH8/J8ZANqAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMg5r6g2PAB5nns72cJcHd6v54Gc/l0MXwA/4CYADEBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASIua4mNU2/eJ4nZKtfp9oAAAAASUVORK5CYII=</ImportTexture>
   <ImportTexture filename="Coin.png">iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADPSURBVFhH7ZhLDoQgEAVx9t7/ns4BGBLxZSYNdI8feCRdG12ZSj0W6hJjDCd4L/mmwXrmya98peGfQpYqDWzBDEIXPSRNs7kmu70NqEeqCz1nA0paU0zWoQ0QkYRQTxvwpcU82ZA24IhEV4h2srF7gTX6ZBqEZ2jLdyT4ZBoupOFCGi6k4UIadEL+PqThQhq0hzrh32VFmCfbGf2zQQglejqJ3zH8k4EOnUSeRF0o8ZxTSWVnosnA7Z3qeRIGIXDRrOkBZpysiKWWLckPIXwAgNpcCeFtSxIAAAAASUVORK5CYII=</ImportTexture>
 </Tiled2Unity>
