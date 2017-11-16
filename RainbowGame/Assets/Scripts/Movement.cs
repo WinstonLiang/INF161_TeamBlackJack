@@ -9,10 +9,13 @@ public class Movement : MonoBehaviour {
     public bool hasJumped = false;
     public bool landed = true;
 
+    public float distToGround;
+
     //public int coins = 0;
 
 	// Use this for initialization
 	void Start () {
+        distToGround = GetComponent<Collider>().bounds.extents.y;
         startPosition = this.transform.position;
 	}
 	
@@ -72,7 +75,7 @@ public class Movement : MonoBehaviour {
         //    coins++;
         //    return;
         //}
-        if (collision.transform.position.z < this.transform.position.y)
+        if (this.transform.position.y < collision.transform.position.z)
             landed = true;
     }
 }

@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/TestScenes/jonathan.unity
+- path: Assets/TestScenes/LAmutan.unity
   isLoaded: 1
   isActive: 1
