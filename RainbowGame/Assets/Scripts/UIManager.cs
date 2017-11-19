@@ -59,7 +59,6 @@ public class UIManager : MonoBehaviour {
     {
         float playerHeight = player.transform.position.y;
         float heightPercentage = playerHeight / 7f;
-        print(heightPercentage);
         if(heightPercentage > 1)
         {
             heightPercentage = 1.0f;
