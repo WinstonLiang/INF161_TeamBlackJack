@@ -10,6 +10,7 @@ public class Movement : MonoBehaviour {
     public bool landed = true;
 
     public float distToGround;
+    private SoundManager sound;
 
     //public int coins = 0;
 
@@ -17,6 +18,7 @@ public class Movement : MonoBehaviour {
 	void Start () {
         distToGround = GetComponent<Collider>().bounds.extents.y;
         startPosition = this.transform.position;
+        sound = GameObject.Find("AudioPlayer").GetComponent<SoundManager>();
 	}
 	
 	// Update is called once per frame
@@ -65,6 +67,7 @@ public class Movement : MonoBehaviour {
 
     void Jump ()
     {
+        sound.PlayJumpSound();
         this.GetComponent<Rigidbody>().AddForce(new Vector3(0, 5.75f, 0), ForceMode.VelocityChange);
     }
 

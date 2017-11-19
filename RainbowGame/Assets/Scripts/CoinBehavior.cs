@@ -9,12 +9,14 @@ public class CoinBehavior : MonoBehaviour {
     private bool ascending;
 
     public GameObject player_camera;
+    private SoundManager sound;
 
     private void Start()
     {
         ascending = true;
         rb = GetComponent<Rigidbody>();
         col = GetComponent<CapsuleCollider>();
+        sound = GameObject.Find("AudioPlayer").GetComponent<SoundManager>();
     }
 
     private void Update()
@@ -48,7 +50,7 @@ public class CoinBehavior : MonoBehaviour {
         if(other.tag == "Player")
         {
             //Do something in the world...whatever we decide to do.
-
+            sound.PlayCoinSound();
             player_camera.GetComponent<CameraFollow>().coins += 1;
             Destroy(this.gameObject);
         }
