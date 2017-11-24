@@ -32,17 +32,25 @@ public class Movement : MonoBehaviour {
         }
 
         if (Input.GetKey("up") || Input.GetKey("w"))
-            if(this.GetComponent<Rigidbody>().velocity.z < 5)
+        {
+            if (this.GetComponent<Rigidbody>().velocity.z < 5)
                 this.GetComponent<Rigidbody>().AddForce(new Vector3(0, 0, thrust), ForceMode.Impulse);
+        }
         if (Input.GetKey("down") || Input.GetKey("s"))
+        {
             if (this.GetComponent<Rigidbody>().velocity.z > -5)
                 this.GetComponent<Rigidbody>().AddForce(new Vector3(0, 0, -thrust), ForceMode.Impulse);
+        }
         if (Input.GetKey("left") || Input.GetKey("a"))
+        {
             if (this.GetComponent<Rigidbody>().velocity.x > -5)
                 this.GetComponent<Rigidbody>().AddForce(new Vector3(-thrust, 0, 0), ForceMode.Impulse);
+        }
         if (Input.GetKey("right") || Input.GetKey("d"))
+        {
             if (this.GetComponent<Rigidbody>().velocity.x < 5)
                 this.GetComponent<Rigidbody>().AddForce(new Vector3(thrust, 0, 0), ForceMode.Impulse);
+        }
 
         if (Input.GetKey("r"))
             this.Reset();
