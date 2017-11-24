@@ -42,10 +42,10 @@ MonoBehaviour:
     y: 30
     width: 1858
     height: 987
-  m_MinSize: {x: 681, y: 492}
+  m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 9
+  controlID: 48
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -206,10 +206,10 @@ MonoBehaviour:
     y: 0
     width: 1481
     height: 987
-  m_MinSize: {x: 404, y: 492}
+  m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 10
+  controlID: 49
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -230,10 +230,10 @@ MonoBehaviour:
     y: 0
     width: 1481
     height: 598
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 11
+  controlID: 50
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -325,19 +325,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Images
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Images
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Sarah-Anne\Documents\GitHub\INF161_TeamBlackJack\INF161_TeamBlackJack\RainbowGame
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 382f0000
-    m_LastClickedID: 12088
-    m_ExpandedIDs: 00000000062f0000542f00004c38000000ca9a3bffffff7f
+    m_SelectedIDs: 262b0000
+    m_LastClickedID: 11046
+    m_ExpandedIDs: 00000000f6280000b02d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -365,7 +365,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000062f00004c380000
+    m_ExpandedIDs: 00000000f62800008a2c0000b02d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -481,23 +481,23 @@ MonoBehaviour:
     height: 577
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4c390000
-    m_LastClickedID: 14668
-    m_ExpandedIDs: 6a74ffff8074ffffbe74ffffc474ffff4a76ffff469fffff4a9fffff22a0ffff00000000
+    m_SelectedIDs: dc2e0000
+    m_LastClickedID: 11996
+    m_ExpandedIDs: da66fdff0465feff6e73feff5c8cfeff9c95fefff0f5ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Coin(Clone)
-      m_OriginalName: Coin(Clone)
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -671650
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
@@ -533,14 +533,14 @@ MonoBehaviour:
     width: 1110
     height: 577
   m_SceneLighting: 1
-  lastFramingTime: 6766.28643021336
+  lastFramingTime: 1252.6024979605415
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 10.193237, y: -7.8984375, z: 12.96875}
+    m_Target: {x: 14, y: -10, z: 1}
     speed: 2
-    m_Value: {x: 10.193237, y: -7.8984375, z: 12.96875}
+    m_Value: {x: 14, y: -10, z: 1}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -563,13 +563,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.42579266, y: 0.0032577591, z: -0.0014968406, w: -0.9048696}
+    m_Target: {x: -0.56120217, y: -0.0070007415, z: 0.0046733846, w: -0.8277165}
     speed: 2
-    m_Value: {x: -0.42577115, y: 0.0032575945, z: -0.001496765, w: -0.9048239}
+    m_Value: {x: -0.5611648, y: -0.007000275, z: 0.004673073, w: -0.8276614}
   m_Size:
-    m_Target: 46.321762
+    m_Target: 50.82347
     speed: 2
-    m_Value: 46.321762
+    m_Value: 50.82347
   m_Ortho:
     m_Target: 1
     speed: 2

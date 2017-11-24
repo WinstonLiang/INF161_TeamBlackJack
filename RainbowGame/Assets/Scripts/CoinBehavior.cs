@@ -22,7 +22,7 @@ public class CoinBehavior : MonoBehaviour {
     private void Update()
     {
         this.transform.Rotate(0, 5, 0);
-        Bob();
+        //Bob();
     }
 
     private void Bob()

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Movement : MonoBehaviour {
 
@@ -58,11 +59,16 @@ public class Movement : MonoBehaviour {
             hasJumped = false;
         }
 
+        if (this.transform.position.y <= -5)
+            this.Reset();
+
 	}
     
     void Reset ()
     {
-        this.transform.position = startPosition;
+        Scene scene = SceneManager.GetActiveScene();
+        SceneManager.LoadScene(scene.name);
+        //this.transform.position = startPosition;
     }
 
     void Jump ()
