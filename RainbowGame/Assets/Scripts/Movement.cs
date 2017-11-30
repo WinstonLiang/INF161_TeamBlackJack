@@ -13,6 +13,8 @@ public class Movement : MonoBehaviour {
     public float distToGround;
     private SoundManager sound;
 
+    private float timer;
+
     //public int coins = 0;
 
 	// Use this for initialization
@@ -20,6 +22,8 @@ public class Movement : MonoBehaviour {
         distToGround = GetComponent<Collider>().bounds.extents.y;
         startPosition = this.transform.position;
         sound = GameObject.Find("AudioPlayer").GetComponent<SoundManager>();
+
+        timer = 0;
 	}
 	
 	// Update is called once per frame
@@ -70,6 +74,17 @@ public class Movement : MonoBehaviour {
         if (this.transform.position.y <= -5)
             this.Reset();
 
+        if (!landed)
+        {
+            timer += Time.deltaTime;
+            if(timer > 3)
+            {
+                landed = true;
+                hasJumped = false;
+                timer = 0;
+            }
+        }
+
 	}
     
     void Reset ()
@@ -93,6 +108,9 @@ public class Movement : MonoBehaviour {
         //    return;
         //}
         if (this.transform.position.y < collision.transform.position.z)
+        {
             landed = true;
+            timer = 0;
+        }
     }
 }

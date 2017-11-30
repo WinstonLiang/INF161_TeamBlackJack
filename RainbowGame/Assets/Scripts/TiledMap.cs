@@ -33,7 +33,7 @@ public class TiledMap : MonoBehaviour
                     pos.x += 1f;
                     pos.y += 1f;
                     pos.z += 1f;
-                    GameObject newCoin = Instantiate(coin, pos, new Quaternion(90, 0, 0, 0));
+                    GameObject newCoin = Instantiate(coin, pos, new Quaternion(0, 0, 0, 0));
                     newCoin.GetComponent<CoinBehavior>().player_camera = cam;
                 }
             }
