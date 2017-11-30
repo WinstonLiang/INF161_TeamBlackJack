@@ -7,7 +7,7 @@ public class UIManager : MonoBehaviour {
 
     private Text coinsText;
     private CameraFollow manager;
-    private int maxCoins;
+    public int maxCoins;
     private GameObject sliderBar;
     private GameObject sliderIcon;
     public GameObject player;

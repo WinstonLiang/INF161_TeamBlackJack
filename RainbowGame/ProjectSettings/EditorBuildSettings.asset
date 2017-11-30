@@ -11,3 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/TestScenes/LAmutan.unity
     guid: 356e998e931790f4ead0747c87d6f531
+  - enabled: 1
+    path: Assets/Scenes/VictoryScreen.unity
+    guid: 95f77cd443536914f91e20e28a783e41

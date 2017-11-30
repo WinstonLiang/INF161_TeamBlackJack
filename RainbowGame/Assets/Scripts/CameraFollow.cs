@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class CameraFollow : MonoBehaviour {
 
@@ -19,5 +20,10 @@ public class CameraFollow : MonoBehaviour {
 	void Update () {
         this.transform.position = new Vector3(Player.transform.position.x, Player.transform.position.y+dist, Player.transform.position.z);
         timer += Time.deltaTime;
+
+        if(coins >= GameObject.Find("UI").GetComponent<UIManager>().maxCoins)
+        {
+            SceneManager.LoadScene("VictoryScreen");
+        }
 	}
 }
